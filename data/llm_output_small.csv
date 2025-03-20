@@ -1,0 +1,1189 @@
+,lodAIC,model,property,pid,short_response
+0,pid_graph:AP0AEB083B,mistral-small,metadata, AID          ,No Metadata Schema Prescribed
+1,pid_graph:AP7D4E5ACB,mistral-small,structure, AID        ,Unknown
+2,pid_graph:APE39D4FF0,mistral-small,governance, AID        ,Unknown
+3,pid_graph:AP9364E21B,mistral-small,metadata, ARK          ,Metadata Schema per Entity
+4,pid_graph:AP9DEF623A,mistral-small,structure, ARK        ,Allows Managed Prefix
+5,pid_graph:AP5F91618C,mistral-small,governance, ARK        ,Community Governance
+6,pid_graph:AP260ED8E3,mistral-small,metadata, arXiv          ,Metadata Schema per Entity
+7,pid_graph:APBB4AFFC2,mistral-small,structure, arXiv        ,Allows Managed Prefix
+8,pid_graph:AP3C4CFB06,mistral-small,governance, arXiv        ,Community Governance
+9,pid_graph:AP8C1FE868,mistral-small,metadata, BibCode          ,Metadata Schema per Entity
+10,pid_graph:APF90E9EBE,mistral-small,structure, BibCode        ,Allows User Semantics
+11,pid_graph:AP3B270C73,mistral-small,governance, BibCode        ,Community Governance
+12,pid_graph:AP2979A55B,mistral-small,metadata, Bitbucket          ,No Metadata Schema Prescribed
+13,pid_graph:AP4C2A5ACE,mistral-small,structure, Bitbucket        ,Predefined Identifier Structure
+14,pid_graph:APA44A99E4,mistral-small,governance, Bitbucket        ,Community Governance
+15,pid_graph:AP47CC0B91,mistral-small,metadata, Book ID          ,Metadata Schema per Entity
+16,pid_graph:APD064DE2D,mistral-small,structure, Book ID        ,Not found
+17,pid_graph:AP66BC0F2F,mistral-small,governance, Book ID        ,Unknown
+18,pid_graph:AP685862BE,mistral-small,metadata, BusinessID          ,Unknown
+19,pid_graph:APCA46BF8C,mistral-small,structure, BusinessID        ,Not found
+20,pid_graph:APF6ED311F,mistral-small,governance, BusinessID        ,Unknown
+21,pid_graph:APCF048669,mistral-small,metadata, CID          ,No Metadata Schema Prescribed
+22,pid_graph:AP57F1EA99,mistral-small,structure, CID        ,Allows Managed Prefix
+23,pid_graph:APA755B6C6,mistral-small,governance, CID        ,Unknown
+24,pid_graph:APF274C2EF,mistral-small,metadata, COL          ,No Metadata Schema Prescribed
+25,pid_graph:APE02B6C1A,mistral-small,structure, COL        ,Unknown
+26,pid_graph:AP02A6D040,mistral-small,governance, COL        ,Unknown
+27,pid_graph:AP62740C74,mistral-small,metadata, CONFIDENT          ,No Metadata Schema Prescribed
+28,pid_graph:AP15276F85,mistral-small,structure, CONFIDENT        ,Predefined Identifier Structure
+29,pid_graph:AP3C2929DB,mistral-small,governance, CONFIDENT        ,Community Governance
+30,pid_graph:AP2F8F3DC5,mistral-small,metadata, CrossRef Funders          ,Metadata Schema per Entity
+31,pid_graph:AP08AAEED8,mistral-small,structure, CrossRef Funders        ,Allows Managed Prefix
+32,pid_graph:AP046A3F1F,mistral-small,governance, CrossRef Funders        ,Community Governance
+33,pid_graph:AP34F621FC,mistral-small,metadata, CrossRef Grant          ,Metadata Schema per Entity
+34,pid_graph:APFB26EEDB,mistral-small,structure, CrossRef Grant        ,Allows Managed Prefix
+35,pid_graph:AP0C1F4700,mistral-small,governance, CrossRef Grant        ,Community Governance
+36,pid_graph:AP9A082261,mistral-small,metadata, CURIE          ,No Metadata Schema Prescribed
+37,pid_graph:AP90676427,mistral-small,structure, CURIE        ,Allows Managed Prefix
+38,pid_graph:AP1FE199A6,mistral-small,governance, CURIE        ,Community Governance
+39,pid_graph:APE2E3B141,mistral-small,metadata, DAI          ,No Metadata Schema Prescribed
+40,pid_graph:APC7F7F98B,mistral-small,structure, DAI        ,Unknown
+41,pid_graph:AP00A55CCA,mistral-small,governance, DAI        ,Unknown
+42,pid_graph:APA1181F6B,mistral-small,metadata, dbGaP ID          ,Metadata Schema per Entity
+43,pid_graph:AP8F6CD222,mistral-small,structure, dbGaP ID        ,Allows Managed Prefix
+44,pid_graph:AP6247D51F,mistral-small,governance, dbGaP ID        ,Community Governance
+45,pid_graph:AP5B4B5F07,mistral-small,metadata, dbVar ID          ,Metadata Schema per Entity
+46,pid_graph:AP245F4723,mistral-small,structure, dbVar ID        ,Allows Managed Prefix
+47,pid_graph:AP96AA0574,mistral-small,governance, dbVar ID        ,Community Governance
+48,pid_graph:AP1C60B7EA,mistral-small,metadata, DCO-ID          ,Metadata Schema per Entity
+49,pid_graph:AP3EC1FFD1,mistral-small,structure, DCO-ID        ,Allows Managed Prefix
+50,pid_graph:AP85C9186E,mistral-small,governance, DCO-ID        ,Community Governance
+51,pid_graph:APD8464268,mistral-small,metadata, DOI          ,Metadata Schema per Entity
+52,pid_graph:APC985FA57,mistral-small,structure, DOI        ,Allows Managed Prefix
+53,pid_graph:AP41AA8E61,mistral-small,governance, DOI        ,Community Governance
+54,pid_graph:AP58AEA18C,mistral-small,metadata, DOI: Crossref          ,Metadata Schema per Entity
+55,pid_graph:AP8AA0E954,mistral-small,structure, DOI: Crossref        ,Predefined Identifier Structure
+56,pid_graph:APD1C47121,mistral-small,governance, DOI: Crossref        ,Membership Governance
+57,pid_graph:AP7A44AFCB,mistral-small,metadata, DOI: DataCIte          ,Metadata Schema per Entity
+58,pid_graph:AP4A2FEC92,mistral-small,structure, DOI: DataCIte        ,Predefined Identifier Structure
+59,pid_graph:AP623FE676,mistral-small,governance, DOI: DataCIte        ,Community Governance
+60,pid_graph:AP0F9B1874,mistral-small,metadata, dPID          ,Unknown
+61,pid_graph:AP512B7AD9,mistral-small,structure, dPID        ,Unknown
+62,pid_graph:AP4FF551F8,mistral-small,governance, dPID        ,Unknown
+63,pid_graph:APDFF4B4F1,mistral-small,metadata, EAN13          ,No Metadata Schema Prescribed
+64,pid_graph:AP3C1AFD6D,mistral-small,structure, EAN13        ,Predefined Identifier Structure
+65,pid_graph:APD10FDBEC,mistral-small,governance, EAN13        ,Community Governance
+66,pid_graph:AP7B099C82,mistral-small,metadata, EIDR          ,Metadata Schema per Entity
+67,pid_graph:APB15DFFAA,mistral-small,structure, EIDR        ,Allows Managed Prefix
+68,pid_graph:AP1773450F,mistral-small,governance, EIDR        ,Not found
+69,pid_graph:AP4445DACF,mistral-small,metadata, eISSN          ,Not found
+70,pid_graph:APCB7A3B7E,mistral-small,structure, eISSN        ,Not found
+71,pid_graph:APCDE6893E,mistral-small,governance, eISSN        ,Community Governance
+72,pid_graph:APC00BA80A,mistral-small,metadata, ePIC          ,Metadata Schema per Entity
+73,pid_graph:APD84694B4,mistral-small,structure, ePIC        ,Allows Managed Prefix
+74,pid_graph:AP00DEEC3B,mistral-small,governance, ePIC        ,Community Governance
+75,pid_graph:AP12E9B149,mistral-small,metadata, EU PIC          ,Not found
+76,pid_graph:APFDB24C35,mistral-small,structure, EU PIC        ,Allows Managed Prefix
+77,pid_graph:APA86744C1,mistral-small,governance, EU PIC        ,Community Governance
+78,pid_graph:AP33C465EC,mistral-small,metadata, GDS ID          ,Metadata Schema per Entity
+79,pid_graph:APEC2D31B8,mistral-small,structure, GDS ID        ,Allows Managed Prefix
+80,pid_graph:AP4A73C00C,mistral-small,governance, GDS ID        ,Unknown
+81,pid_graph:AP34008A74,mistral-small,metadata, Gene ID          ,Metadata Schema per Entity
+82,pid_graph:AP51CC5898,mistral-small,structure, Gene ID        ,Allows Managed Prefix
+83,pid_graph:AP83233F83,mistral-small,governance, Gene ID        ,Unknown
+84,pid_graph:AP132A08CC,mistral-small,metadata, Genome ID          ,Not found
+85,pid_graph:APCF2A17B5,mistral-small,structure, Genome ID        ,Not found
+86,pid_graph:AP7D9B7581,mistral-small,governance, Genome ID        ,Community Governance
+87,pid_graph:AP68FBCBB8,mistral-small,metadata, GEO ID          ,Metadata Schema per Entity
+88,pid_graph:AP273B9F67,mistral-small,structure, GEO ID        ,Predefined Identifier Structure
+89,pid_graph:APB70EAE27,mistral-small,governance, GEO ID        ,Unknown
+90,pid_graph:APFFFE37E3,mistral-small,metadata, GeoNames ID          ,Metadata Schema per Entity
+91,pid_graph:APE556AE79,mistral-small,structure, GeoNames ID        ,Allows Managed Prefix
+92,pid_graph:AP697BADFB,mistral-small,governance, GeoNames ID        ,Community Governance
+93,pid_graph:APE0BED87D,mistral-small,metadata, GePRIS          ,Metadata Schema per Entity
+94,pid_graph:APD9B32D23,mistral-small,structure, GePRIS        ,Allows Managed Prefix
+95,pid_graph:AP74585E1A,mistral-small,governance, GePRIS        ,Community Governance
+96,pid_graph:APF4C12F36,mistral-small,metadata, GitHub          ,No Metadata Schema Prescribed
+97,pid_graph:AP87D86E04,mistral-small,structure, GitHub        ,Allows Managed Prefix
+98,pid_graph:APA785EE3C,mistral-small,governance, GitHub        ,Unknown
+99,pid_graph:AP96FC2D60,mistral-small,metadata, GitLab          ,No Metadata Schema Prescribed
+100,pid_graph:AP7265AEBC,mistral-small,structure, GitLab        ,Not found
+101,pid_graph:APCA39A4F2,mistral-small,governance, GitLab        ,Not found
+102,pid_graph:AP142A570A,mistral-small,metadata, GND          ,Metadata Schema per Entity
+103,pid_graph:APC82F7D49,mistral-small,structure, GND        ,Allows Managed Prefix
+104,pid_graph:APDDBBE5D0,mistral-small,governance, GND        ,Community Governance
+105,pid_graph:AP6511DA09,mistral-small,metadata, GRID          ,Metadata Schema per Entity
+106,pid_graph:AP1928E87D,mistral-small,structure, GRID        ,Allows Managed Prefix
+107,pid_graph:AP95265EDE,mistral-small,governance, GRID        ,Community Governance
+108,pid_graph:AP84FD9F55,mistral-small,metadata, HAL article ID          ,Metadata Schema per Entity
+109,pid_graph:AP2A7931D3,mistral-small,structure, HAL article ID        ,Allows Managed Prefix
+110,pid_graph:AP510216FD,mistral-small,governance, HAL article ID        ,Community Governance
+111,pid_graph:AP610BE4F9,mistral-small,metadata, Handle          ,No Metadata Schema Prescribed
+112,pid_graph:AP424C18E8,mistral-small,structure, Handle        ,Allows Managed Prefix
+113,pid_graph:APE29BBA2B,mistral-small,governance, Handle        ,Closed Governance
+114,pid_graph:AP3EB6D63A,mistral-small,metadata, HomoloGene ID          ,Metadata Schema per Entity
+115,pid_graph:AP7FF691E4,mistral-small,structure, HomoloGene ID        ,Allows User Semantics
+116,pid_graph:AP852532BB,mistral-small,governance, HomoloGene ID        ,Unknown
+117,pid_graph:AP60AD0C53,mistral-small,metadata, ICD          ,No Metadata Schema Prescribed
+118,pid_graph:APAD9D9396,mistral-small,structure, ICD        ,Allows Managed Prefix
+119,pid_graph:APA6033D20,mistral-small,governance, ICD        ,Unknown
+120,pid_graph:AP5C6487E2,mistral-small,metadata, IdRef ID/SUDOC          ,Metadata Schema per Entity
+121,pid_graph:AP0B4658F9,mistral-small,structure, IdRef ID/SUDOC        ,Allows User Semantics
+122,pid_graph:AP3507981C,mistral-small,governance, IdRef ID/SUDOC        ,Community Governance
+123,pid_graph:APE97AAABD,mistral-small,metadata, IGSN          ,Metadata Schema per Entity
+124,pid_graph:AP46DC78FC,mistral-small,structure, IGSN        ,Allows Managed Prefix
+125,pid_graph:APACB7960D,mistral-small,governance, IGSN        ,Community Governance
+126,pid_graph:AP609D8398,mistral-small,metadata, IMDb company ID          ,No Metadata Schema Prescribed
+127,pid_graph:APA088C1AD,mistral-small,structure, IMDb company ID        ,Allows User Semantics
+128,pid_graph:AP446EE7E7,mistral-small,governance, IMDb company ID        ,Unknown
+129,pid_graph:AP7C8DDF13,mistral-small,metadata, IMDb name ID          ,No Metadata Schema Prescribed
+130,pid_graph:APF5A17453,mistral-small,structure, IMDb name ID        ,Allows User Semantics
+131,pid_graph:APBB47AFE6,mistral-small,governance, IMDb name ID        ,Community Governance
+132,pid_graph:AP892D6C62,mistral-small,metadata, IMDb title ID          ,No Metadata Schema Prescribed
+133,pid_graph:APE5DD1194,mistral-small,structure, IMDb title ID        ,Not found
+134,pid_graph:APB6C7F0DB,mistral-small,governance, IMDb title ID        ,Community Governance
+135,pid_graph:AP6391055A,mistral-small,metadata, InChI          ,Metadata Schema per Entity
+136,pid_graph:AP3E74644B,mistral-small,structure, InChI        ,Predefined Identifier Structure
+137,pid_graph:AP00EE02FC,mistral-small,governance, InChI        ,Unknown
+138,pid_graph:AP128A3EE9,mistral-small,metadata, InChiKey          ,Metadata Schema per Entity
+139,pid_graph:AP5251AE8D,mistral-small,structure, InChiKey        ,Not found
+140,pid_graph:APEFE133F5,mistral-small,governance, InChiKey        ,Community Governance
+141,pid_graph:APAF28DCF5,mistral-small,metadata, ISLRN          ,Metadata Schema per Entity
+142,pid_graph:AP4423D643,mistral-small,structure, ISLRN        ,Allows Managed Prefix
+143,pid_graph:AP32117F8A,mistral-small,governance, ISLRN        ,Community Governance
+144,pid_graph:AP21FC5DC4,mistral-small,metadata, JuFo-id          ,Metadata Schema per Entity
+145,pid_graph:APB35FF4BA,mistral-small,structure, JuFo-id        ,Not found
+146,pid_graph:APE3B93093,mistral-small,governance, JuFo-id        ,Community Governance
+147,pid_graph:AP0E2829B6,mistral-small,metadata, Korean national author ID          ,Metadata Schema per Entity
+148,pid_graph:AP0CE0EBD9,mistral-small,structure, Korean national author ID        ,Predefined Identifier Structure
+149,pid_graph:AP6B132382,mistral-small,governance, Korean national author ID        ,Unknown
+150,pid_graph:AP632C3D94,mistral-small,metadata, Korean national research ID          ,Metadata Schema per Entity
+151,pid_graph:AP3B3FF0AA,mistral-small,structure, Korean national research ID        ,Allows Managed Prefix
+152,pid_graph:AP6B9A714E,mistral-small,governance, Korean national research ID        ,Not found
+153,pid_graph:AP2F3FCDDE,mistral-small,metadata, Korean research funding ID          ,Metadata Schema per Entity
+154,pid_graph:APB1D2044E,mistral-small,structure, Korean research funding ID        ,Predefined Identifier Structure
+155,pid_graph:APDD71706B,mistral-small,governance, Korean research funding ID        ,Community Governance
+156,pid_graph:AP47384FBF,mistral-small,metadata, LCCN          ,Metadata Schema per Entity
+157,pid_graph:APBF07F3CC,mistral-small,structure, LCCN        ,Not found
+158,pid_graph:AP122C1488,mistral-small,governance, LCCN        ,Not found
+159,pid_graph:AP55853235,mistral-small,metadata, Magnet          ,No Metadata Schema Prescribed
+160,pid_graph:AP41AD7BAE,mistral-small,structure, Magnet        ,Unknown
+161,pid_graph:APE5E1926A,mistral-small,governance, Magnet        ,Unknown
+162,pid_graph:AP0B716BCB,mistral-small,metadata, MeSH ID                  ,Metadata Schema per Entity
+163,pid_graph:AP7CA611D9,mistral-small,structure, MeSH ID                ,Allows Managed Prefix
+164,pid_graph:AP4D09881A,mistral-small,governance, MeSH ID                ,Unknown
+165,pid_graph:AP30A463D8,mistral-small,metadata, MMDB-ID          ,No Metadata Schema Prescribed
+166,pid_graph:AP52345158,mistral-small,structure, MMDB-ID        ,Allows Managed Prefix
+167,pid_graph:APD64605C9,mistral-small,governance, MMDB-ID        ,Community Governance
+168,pid_graph:AP6E0DB368,mistral-small,metadata, NLM Catalog ID                  ,Metadata Schema per Entity
+169,pid_graph:APCCD0E262,mistral-small,structure, NLM Catalog ID                ,Allows Managed Prefix
+170,pid_graph:AP4222858D,mistral-small,governance, NLM Catalog ID                ,Unknown
+171,pid_graph:AP49411E0E,mistral-small,metadata, Not Applicable          ,Common Metadata Schema for Identifier
+172,pid_graph:AP0D15521B,mistral-small,structure, Not Applicable        ,Allows Managed Prefix
+173,pid_graph:AP302A1CA2,mistral-small,governance, Not Applicable        ,Community Governance
+174,pid_graph:AP7B9C3DC7,mistral-small,metadata, Nucleotide GI number          ,No Metadata Schema Prescribed
+175,pid_graph:AP6CAE238D,mistral-small,structure, Nucleotide GI number        ,Allows Managed Prefix
+176,pid_graph:AP68506C50,mistral-small,governance, Nucleotide GI number        ,Community Governance
+177,pid_graph:AP37A52362,mistral-small,metadata, NZBN          ,Metadata Schema per Entity
+178,pid_graph:AP9F5C6C5D,mistral-small,structure, NZBN        ,Allows Managed Prefix
+179,pid_graph:APE78126F2,mistral-small,governance, NZBN        ,Community Governance
+180,pid_graph:APBC034DF9,mistral-small,metadata, OCLC Control Number          ,No Metadata Schema Prescribed
+181,pid_graph:AP7C10D0C0,mistral-small,structure, OCLC Control Number        ,Predefined Identifier Structure
+182,pid_graph:AP5C16903E,mistral-small,governance, OCLC Control Number        ,Community Governance
+183,pid_graph:APFC474516,mistral-small,metadata, OMID          ,Not found
+184,pid_graph:APC7DA16A9,mistral-small,structure, OMID        ,Allows Managed Prefix
+185,pid_graph:AP37516FFC,mistral-small,governance, OMID        ,Unknown
+186,pid_graph:APD76B9284,mistral-small,metadata, OpenCitations Corpus          ,Metadata Schema per Entity
+187,pid_graph:AP60BF8C1B,mistral-small,structure, OpenCitations Corpus        ,Allows Managed Prefix
+188,pid_graph:AP941FF51B,mistral-small,governance, OpenCitations Corpus        ,Community Governance
+189,pid_graph:AP4EABD272,mistral-small,metadata, OpenURL          ,No Metadata Schema Prescribed
+190,pid_graph:AP815271C0,mistral-small,structure, OpenURL        ,Unknown
+191,pid_graph:AP216CBC49,mistral-small,governance, OpenURL        ,Unknown
+192,pid_graph:APB2517B08,mistral-small,metadata, ORCID          ,Metadata Schema per Entity
+193,pid_graph:APB8D22945,mistral-small,structure, ORCID        ,Allows Managed Prefix
+194,pid_graph:APC743A264,mistral-small,governance, ORCID        ,Community Governance
+195,pid_graph:AP7B20FE40,mistral-small,metadata, PIC          ,No Metadata Schema Prescribed
+196,pid_graph:AP51EE5E9B,mistral-small,structure, PIC        ,Unknown
+197,pid_graph:APFE212E7F,mistral-small,governance, PIC        ,Unknown
+198,pid_graph:APBFF9C745,mistral-small,metadata, PIDINST          ,No Metadata Schema Prescribed
+199,pid_graph:APDD88850B,mistral-small,structure, PIDINST        ,Unknown
+200,pid_graph:AP9CCCFE96,mistral-small,governance, PIDINST        ,Unknown
+201,pid_graph:AP2AB57215,mistral-small,metadata, PMCID          ,Common Metadata Schema for Identifier
+202,pid_graph:APA586E00A,mistral-small,structure, PMCID        ,Allows Managed Prefix
+203,pid_graph:AP37162C1B,mistral-small,governance, PMCID        ,Community Governance
+204,pid_graph:AP1D220902,mistral-small,metadata, PMID          ,No Metadata Schema Prescribed
+205,pid_graph:AP4343D72D,mistral-small,structure, PMID        ,Allows Managed Prefix
+206,pid_graph:APC23F3C24,mistral-small,governance, PMID        ,Unknown
+207,pid_graph:APC0CBEB25,mistral-small,metadata, PopSet ID          ,Metadata Schema per Entity
+208,pid_graph:AP94B919BA,mistral-small,structure, PopSet ID        ,Not found
+209,pid_graph:AP69A01832,mistral-small,governance, PopSet ID        ,Community Governance
+210,pid_graph:AP1AB0F7B7,mistral-small,metadata, Probe ID	          ,No Metadata Schema Prescribed
+211,pid_graph:AP9EA78AFA,mistral-small,structure, Probe ID	        ,Allows Managed Prefix
+212,pid_graph:AP900C9126,mistral-small,governance, Probe ID	        ,Community Governance
+213,pid_graph:AP28D1F00C,mistral-small,metadata, Protein Cluster ID          ,Metadata Schema per Entity
+214,pid_graph:APDD497119,mistral-small,structure, Protein Cluster ID        ,Allows User Semantics
+215,pid_graph:AP12107133,mistral-small,governance, Protein Cluster ID        ,Unknown
+216,pid_graph:AP0802FF5C,mistral-small,metadata, Protein GI number                  ,Metadata Schema per Entity
+217,pid_graph:AP1EB0DC83,mistral-small,structure, Protein GI number                ,Predefined Identifier Structure
+218,pid_graph:APAFAD0966,mistral-small,governance, Protein GI number                ,Community Governance
+219,pid_graph:AP66E07F03,mistral-small,metadata, PSSM-ID          ,Metadata Schema per Entity
+220,pid_graph:APAE0547CD,mistral-small,structure, PSSM-ID        ,Not found
+221,pid_graph:AP6F9DB028,mistral-small,governance, PSSM-ID        ,Unknown
+222,pid_graph:APDCE195AD,mistral-small,metadata, PURL          ,No Metadata Schema Prescribed
+223,pid_graph:APF73E0DAA,mistral-small,structure, PURL        ,Allows Managed Prefix
+224,pid_graph:AP5ABC7DDF,mistral-small,governance, PURL        ,Community Governance
+225,pid_graph:AP14173AC0,mistral-small,metadata, QID          ,No Metadata Schema Prescribed
+226,pid_graph:AP65069C58,mistral-small,structure, QID        ,Not found
+227,pid_graph:AP63F81E07,mistral-small,governance, QID        ,Unknown
+228,pid_graph:AP8AE8F619,mistral-small,metadata, QID / WDQID          ,Not found
+229,pid_graph:APDD40AF5E,mistral-small,structure, QID / WDQID        ,Predefined Identifier Structure
+230,pid_graph:APAB935BE9,mistral-small,governance, QID / WDQID        ,Community Governance
+231,pid_graph:APAE9D81F3,mistral-small,metadata, RAI ID          ,No Metadata Schema Prescribed
+232,pid_graph:APDC097A87,mistral-small,structure, RAI ID        ,Allows Managed Prefix
+233,pid_graph:AP3978E3A6,mistral-small,governance, RAI ID        ,Unknown
+234,pid_graph:AP059B125C,mistral-small,metadata, RAID          ,Not found
+235,pid_graph:AP6BD601FA,mistral-small,structure, RAID        ,Unknown
+236,pid_graph:AP84AD2147,mistral-small,governance, RAID        ,Unknown
+237,pid_graph:AP9CFAE893,mistral-small,metadata, re3data          ,No Metadata Schema Prescribed
+238,pid_graph:APBF1203AF,mistral-small,structure, re3data        ,Not found
+239,pid_graph:AP769B3F8E,mistral-small,governance, re3data        ,Not found
+240,pid_graph:AP9BE867A9,mistral-small,metadata, ResearcherID          ,Metadata Schema per Entity
+241,pid_graph:AP949BE1EC,mistral-small,structure, ResearcherID        ,Allows Managed Prefix
+242,pid_graph:AP6FCBCE07,mistral-small,governance, ResearcherID        ,Community Governance
+243,pid_graph:AP03A9D713,mistral-small,metadata, RIN          ,Metadata Schema per Entity
+244,pid_graph:AP324DE0FC,mistral-small,structure, RIN        ,Allows Managed Prefix
+245,pid_graph:APAF279FD7,mistral-small,governance, RIN        ,Not found
+246,pid_graph:AP5CCF198F,mistral-small,metadata, Ringgold ID          ,Metadata Schema per Entity
+247,pid_graph:AP2E62E5CB,mistral-small,structure, Ringgold ID        ,Allows Managed Prefix
+248,pid_graph:AP879BCAA2,mistral-small,governance, Ringgold ID        ,Community Governance
+249,pid_graph:AP7B8B33E6,mistral-small,metadata, RoR          ,Unknown
+250,pid_graph:AP7271404F,mistral-small,structure, RoR        ,Unknown
+251,pid_graph:APC9BDA428,mistral-small,governance, RoR        ,Unknown
+252,pid_graph:AP4DADA27B,mistral-small,metadata, rs number          ,Metadata Schema per Entity
+253,pid_graph:AP85978866,mistral-small,structure, rs number        ,Allows Managed Prefix
+254,pid_graph:AP66D4DC78,mistral-small,governance, rs number        ,Unknown
+255,pid_graph:APA9245770,mistral-small,metadata, SBN/ ICCU          ,Metadata Schema per Entity
+256,pid_graph:AP2338A450,mistral-small,structure, SBN/ ICCU        ,Allows Managed Prefix
+257,pid_graph:AP01971BA5,mistral-small,governance, SBN/ ICCU        ,Community Governance
+258,pid_graph:AP0F4B7F4C,mistral-small,metadata, ScopusAuthorID          ,No Metadata Schema Prescribed
+259,pid_graph:APCE153839,mistral-small,structure, ScopusAuthorID        ,Allows Managed Prefix
+260,pid_graph:AP8F7FA11A,mistral-small,governance, ScopusAuthorID        ,Community Governance
+261,pid_graph:APA35006A2,mistral-small,metadata, SF-edu-ID          ,Unknown
+262,pid_graph:AP79FC73D5,mistral-small,structure, SF-edu-ID        ,Allows Managed Prefix
+263,pid_graph:AP290819B5,mistral-small,governance, SF-edu-ID        ,Unknown
+264,pid_graph:AP90A186FD,mistral-small,metadata, SID          ,No Metadata Schema Prescribed
+265,pid_graph:APCF6BE71D,mistral-small,structure, SID        ,Allows Managed Prefix
+266,pid_graph:AP70A617F5,mistral-small,governance, SID        ,Not found
+267,pid_graph:AP1B1D0E4F,mistral-small,metadata, SRA ID	          ,Metadata Schema per Entity
+268,pid_graph:AP09254E08,mistral-small,structure, SRA ID	        ,Allows Managed Prefix
+269,pid_graph:AP0F50BF8B,mistral-small,governance, SRA ID	        ,Community Governance
+270,pid_graph:AP71653E35,mistral-small,metadata, SWHID          ,Metadata Schema per Entity
+271,pid_graph:AP93937370,mistral-small,structure, SWHID        ,Allows Managed Prefix
+272,pid_graph:AP78688CA3,mistral-small,governance, SWHID        ,Community Governance
+273,pid_graph:APDFB3117E,mistral-small,metadata, swMath          ,No Metadata Schema Prescribed
+274,pid_graph:APACDD001A,mistral-small,structure, swMath        ,Allows Managed Prefix
+275,pid_graph:AP1734A0AC,mistral-small,governance, swMath        ,Community Governance
+276,pid_graph:AP55930B14,mistral-small,metadata, TaxID          ,No Metadata Schema Prescribed
+277,pid_graph:APA583982C,mistral-small,structure, TaxID        ,Allows Managed Prefix
+278,pid_graph:APB2E33BD6,mistral-small,governance, TaxID        ,Not found
+279,pid_graph:APBE93E99D,mistral-small,metadata, Toolkit ID          ,No Metadata Schema Prescribed
+280,pid_graph:AP09AB6402,mistral-small,structure, Toolkit ID        ,Allows Managed Prefix
+281,pid_graph:AP4E376598,mistral-small,governance, Toolkit ID        ,Unknown
+282,pid_graph:AP28424849,mistral-small,metadata, UID          ,No Metadata Schema Prescribed
+283,pid_graph:AP2FDE5AAB,mistral-small,structure, UID        ,No Prefix
+284,pid_graph:APF7D71740,mistral-small,governance, UID        ,Unknown
+285,pid_graph:AP8E871AFF,mistral-small,metadata, ULAN ID          ,Not found
+286,pid_graph:AP6618D977,mistral-small,structure, ULAN ID        ,Allows Managed Prefix
+287,pid_graph:AP396D6163,mistral-small,governance, ULAN ID        ,Community Governance
+288,pid_graph:AP1F09D249,mistral-small,metadata, UPC          ,No Metadata Schema Prescribed
+289,pid_graph:AP9EC681FC,mistral-small,structure, UPC        ,Predefined Identifier Structure
+290,pid_graph:AP5F4AD554,mistral-small,governance, UPC        ,Unknown
+291,pid_graph:APD8F0A4CA,mistral-small,metadata, URI          ,No Metadata Schema Prescribed
+292,pid_graph:APC76AB167,mistral-small,structure, URI        ,Allows Managed Prefix
+293,pid_graph:APB5368E42,mistral-small,governance, URI        ,Community Governance
+294,pid_graph:APD796BB9E,mistral-small,metadata, URL          ,No Metadata Schema Prescribed
+295,pid_graph:APE1737E40,mistral-small,structure, URL        ,Predefined Identifier Structure
+296,pid_graph:AP1349ECAE,mistral-small,governance, URL        ,Community Governance
+297,pid_graph:APB1A056FF,mistral-small,metadata, URN          ,No Metadata Schema Prescribed
+298,pid_graph:AP2FAFC74E,mistral-small,structure, URN        ,Not found
+299,pid_graph:AP09B23B5E,mistral-small,governance, URN        ,Unknown
+300,pid_graph:AP0C594298,mistral-small,metadata, URN: ISNI          ,Metadata Schema per Entity
+301,pid_graph:AP2BA726F9,mistral-small,structure, URN: ISNI        ,Allows Managed Prefix
+302,pid_graph:AP6765B929,mistral-small,governance, URN: ISNI        ,Community Governance
+303,pid_graph:AP6D060DE4,mistral-small,metadata, URN:ISAN          ,Metadata Schema per Entity
+304,pid_graph:APCEBE9211,mistral-small,structure, URN:ISAN        ,Allows Managed Prefix
+305,pid_graph:AP0956DE5F,mistral-small,governance, URN:ISAN        ,Community Governance
+306,pid_graph:AP4FE59076,mistral-small,metadata, URN:ISBN          ,Common Metadata Schema for Identifier
+307,pid_graph:AP98B81BD7,mistral-small,structure, URN:ISBN        ,Allows Managed Prefix
+308,pid_graph:APCE3EE5A0,mistral-small,governance, URN:ISBN        ,Membership Governance
+309,pid_graph:AP603C00B3,mistral-small,metadata, URN:ISMN          ,Metadata Schema per Entity
+310,pid_graph:AP6D2BB6A8,mistral-small,structure, URN:ISMN        ,Allows Managed Prefix
+311,pid_graph:AP212B4E47,mistral-small,governance, URN:ISMN        ,Community Governance
+312,pid_graph:APF936BEF0,mistral-small,metadata, URN:ISRC          ,Common Metadata Schema for Identifier
+313,pid_graph:AP7362A32F,mistral-small,structure, URN:ISRC        ,Not found
+314,pid_graph:APFDEF14E9,mistral-small,governance, URN:ISRC        ,Community Governance
+315,pid_graph:AP155EA865,mistral-small,metadata, URN:ISSN          ,Common Metadata Schema for Identifier
+316,pid_graph:APF88A7693,mistral-small,structure, URN:ISSN        ,Allows Managed Prefix
+317,pid_graph:AP41C5B685,mistral-small,governance, URN:ISSN        ,Community Governance
+318,pid_graph:APEF17548B,mistral-small,metadata, URN:ISTC          ,No Metadata Schema Prescribed
+319,pid_graph:APFA24BA4E,mistral-small,structure, URN:ISTC        ,Not found
+320,pid_graph:AP66974FFA,mistral-small,governance, URN:ISTC        ,Not found
+321,pid_graph:AP101293C2,mistral-small,metadata, URN:LSID          ,Metadata Schema per Entity
+322,pid_graph:APA37291CC,mistral-small,structure, URN:LSID        ,Allows Managed Prefix
+323,pid_graph:APE4F35D22,mistral-small,governance, URN:LSID        ,Community Governance
+324,pid_graph:APFBBDC875,mistral-small,metadata, URN:NBN          ,Metadata Schema per Entity
+325,pid_graph:APD4996A55,mistral-small,structure, URN:NBN        ,Allows Managed Prefix
+326,pid_graph:APD607E2BF,mistral-small,governance, URN:NBN        ,Membership Governance
+327,pid_graph:AP7E2A666E,mistral-small,metadata, URN:NBN:AT          ,Metadata Schema per Entity
+328,pid_graph:APB179EE5F,mistral-small,structure, URN:NBN:AT        ,Allows Managed Prefix
+329,pid_graph:AP81654D9E,mistral-small,governance, URN:NBN:AT        ,Community Governance
+330,pid_graph:AP1F385425,mistral-small,metadata, URN:NBN:CH          ,Metadata Schema per Entity
+331,pid_graph:APBA295DA2,mistral-small,structure, URN:NBN:CH        ,Allows Managed Prefix
+332,pid_graph:AP5F44FF1C,mistral-small,governance, URN:NBN:CH        ,Closed Governance
+333,pid_graph:AP347875AF,mistral-small,metadata, URN:NBN:CZ          ,Metadata Schema per Entity
+334,pid_graph:AP9EDABE83,mistral-small,structure, URN:NBN:CZ        ,Allows Managed Prefix
+335,pid_graph:APF05D9735,mistral-small,governance, URN:NBN:CZ        ,Not found
+336,pid_graph:APA3CA106B,mistral-small,metadata, URN:NBN:DE          ,Not found
+337,pid_graph:AP8CD94E22,mistral-small,structure, URN:NBN:DE        ,Not found
+338,pid_graph:AP10E27BEE,mistral-small,governance, URN:NBN:DE        ,Closed Governance
+339,pid_graph:APCF9E62A8,mistral-small,metadata, URN:NBN:FI          ,Metadata Schema per Entity
+340,pid_graph:AP4A13394E,mistral-small,structure, URN:NBN:FI        ,Allows Managed Prefix
+341,pid_graph:APFD7D3202,mistral-small,governance, URN:NBN:FI        ,Community Governance
+342,pid_graph:AP0B8DA2FD,mistral-small,metadata, URN:NBN:HR          ,Metadata Schema per Entity
+343,pid_graph:APA7FDFCD9,mistral-small,structure, URN:NBN:HR        ,Allows Managed Prefix
+344,pid_graph:AP7D8A049B,mistral-small,governance, URN:NBN:HR        ,Closed Governance
+345,pid_graph:APA5B79190,mistral-small,metadata, URN:NBN:HU          ,Metadata Schema per Entity
+346,pid_graph:APC3990E8B,mistral-small,structure, URN:NBN:HU        ,Allows Managed Prefix
+347,pid_graph:AP4A8FE769,mistral-small,governance, URN:NBN:HU        ,Closed Governance
+348,pid_graph:APB92C3B25,mistral-small,metadata, URN:NBN:IT          ,Metadata Schema per Entity
+349,pid_graph:AP1DFB04D5,mistral-small,structure, URN:NBN:IT        ,Allows Managed Prefix
+350,pid_graph:AP9AD7B1BE,mistral-small,governance, URN:NBN:IT        ,Community Governance
+351,pid_graph:AP5A8F15F0,mistral-small,metadata, URN:NBN:NL          ,Metadata Schema per Entity
+352,pid_graph:APDFFF2AFD,mistral-small,structure, URN:NBN:NL        ,Allows Managed Prefix
+353,pid_graph:APE3A82F91,mistral-small,governance, URN:NBN:NL        ,Closed Governance
+354,pid_graph:APF423BFA5,mistral-small,metadata, URN:NBN:NO          ,Metadata Schema per Entity
+355,pid_graph:APEE9C1C3B,mistral-small,structure, URN:NBN:NO        ,Allows Managed Prefix
+356,pid_graph:APC6F8D154,mistral-small,governance, URN:NBN:NO        ,Not found
+357,pid_graph:AP191BA20A,mistral-small,metadata, URN:NBN:SE          ,Metadata Schema per Entity
+358,pid_graph:APE1DB588A,mistral-small,structure, URN:NBN:SE        ,Allows Managed Prefix
+359,pid_graph:AP854AB70D,mistral-small,governance, URN:NBN:SE        ,Community Governance
+360,pid_graph:AP482A6238,mistral-small,metadata, URN:NBN:SI          ,No Metadata Schema Prescribed
+361,pid_graph:APC6F0E64C,mistral-small,structure, URN:NBN:SI        ,Allows Managed Prefix
+362,pid_graph:AP6E9DE3CD,mistral-small,governance, URN:NBN:SI        ,Community Governance
+363,pid_graph:AP6AB384EE,mistral-small,metadata, URN:NBN:SK          ,Common Metadata Schema for Identifier
+364,pid_graph:APAA50A6DE,mistral-small,structure, URN:NBN:SK        ,Allows Managed Prefix
+365,pid_graph:APD9925A86,mistral-small,governance, URN:NBN:SK        ,Community Governance
+366,pid_graph:AP70697525,mistral-small,metadata, URN:OID          ,Metadata Schema per Entity
+367,pid_graph:APCD235181,mistral-small,structure, URN:OID        ,Predefined Identifier Structure
+368,pid_graph:AP269072B2,mistral-small,governance, URN:OID        ,Not found
+369,pid_graph:AP466CA486,mistral-small,metadata, VAT number          ,No Metadata Schema Prescribed
+370,pid_graph:APF2A273F2,mistral-small,structure, VAT number        ,Allows User Semantics
+371,pid_graph:APCE3E0687,mistral-small,governance, VAT number        ,Unknown
+372,pid_graph:AP5CE54AF2,mistral-small,metadata, VIAF          ,Metadata Schema per Entity
+373,pid_graph:AP9E5AA291,mistral-small,structure, VIAF        ,Allows Managed Prefix
+374,pid_graph:APA5D46522,mistral-small,governance, VIAF        ,Not found
+375,pid_graph:APD6D8955D,mistral-small,metadata, Virta-id          ,Unknown
+376,pid_graph:AP46BB3FF1,mistral-small,structure, Virta-id        ,Allows Managed Prefix
+377,pid_graph:APEA593A61,mistral-small,governance, Virta-id        ,Unknown
+378,pid_graph:APFD36A049,mistral-small,metadata, W3ID          ,Metadata Schema per Entity
+379,pid_graph:APEC0A4306,mistral-small,structure, W3ID        ,Allows Managed Prefix
+380,pid_graph:APAA366FCF,mistral-small,governance, W3ID        ,Community Governance
+381,pid_graph:AP524B19F0,mistral-small,metadata, Wikipedia          ,No Metadata Schema Prescribed
+382,pid_graph:AP056785F8,mistral-small,structure, Wikipedia        ,Allows Managed Prefix
+383,pid_graph:AP6DF2CC97,mistral-small,governance, Wikipedia        ,Community Governance
+384,pid_graph:AP222EFB1F,mistral-small,metadata, WOS          ,Metadata Schema per Entity
+385,pid_graph:APC3CCB542,mistral-small,structure, WOS        ,Allows Managed Prefix
+386,pid_graph:AP993E723E,mistral-small,governance, WOS        ,Community Governance
+387,pid_graph:APCFE5686A,mistral-small,metadata, XRI          ,No Metadata Schema Prescribed
+388,pid_graph:AP93D04CD4,mistral-small,structure, XRI        ,Allows Managed Prefix
+389,pid_graph:AP96A8F01A,mistral-small,governance, XRI        ,Unknown
+390,pid_graph:AP6B9EBE40,mistral-small,metadata, Z39.88-2004          ,No Metadata Schema Prescribed
+391,pid_graph:AP0D8B9D08,mistral-small,structure, Z39.88-2004        ,Predefined Identifier Structure
+392,pid_graph:APE0B792FD,mistral-small,governance, Z39.88-2004        ,Unknown
+393,pid_graph:AP759F0581,mistral-small,metadata, zbMath          ,Metadata Schema per Entity
+394,pid_graph:AP456299F5,mistral-small,structure, zbMath        ,Allows Managed Prefix
+395,pid_graph:AP795AD708,mistral-small,governance, zbMath        ,Community Governance
+396,pid_graph:APD74FD478,sonar-pro,metadata, AID          ,Unknown
+397,pid_graph:AP954227C1,sonar-pro,structure, AID        ,Unknown
+398,pid_graph:AP128ED0C9,sonar-pro,governance, AID        ,Unknown
+399,pid_graph:APC354F524,sonar-pro,metadata, ARK          ,No Metadata Schema Prescribed
+400,pid_graph:APA6E3A813,sonar-pro,structure, ARK        ,Allows Managed Prefix
+401,pid_graph:AP3291F4CC,sonar-pro,governance, ARK        ,Community Governance
+402,pid_graph:APC3254176,sonar-pro,metadata, arXiv          ,Common Metadata Schema for Identifier
+403,pid_graph:AP0B08E34F,sonar-pro,structure, arXiv        ,Predefined Identifier Structure
+404,pid_graph:AP57B43D66,sonar-pro,governance, arXiv        ,Membership Governance
+405,pid_graph:AP809E9625,sonar-pro,metadata, BibCode          ,Common Metadata Schema for Identifier
+406,pid_graph:AP41180C6C,sonar-pro,structure, BibCode        ,Predefined Identifier Structure
+407,pid_graph:AP9A4CA19A,sonar-pro,governance, BibCode        ,Closed Governance
+408,pid_graph:AP17D7F2C3,sonar-pro,metadata, Bitbucket          ,Custom/Non-Standard Metadata Schema
+409,pid_graph:AP3387BCEB,sonar-pro,structure, Bitbucket        ,Unknown
+410,pid_graph:AP06BEE5DD,sonar-pro,governance, Bitbucket        ,Closed Governance
+411,pid_graph:APA9D5C2F9,sonar-pro,metadata, Book ID          ,Common Metadata Schema for Identifier
+412,pid_graph:AP7362B021,sonar-pro,structure, Book ID        ,Unknown
+413,pid_graph:APA065462E,sonar-pro,governance, Book ID        ,Unknown
+414,pid_graph:AP72EE3560,sonar-pro,metadata, BusinessID          ,Unknown
+415,pid_graph:AP6B55450F,sonar-pro,structure, BusinessID        ,Unknown
+416,pid_graph:AP58796915,sonar-pro,governance, BusinessID        ,Unknown
+417,pid_graph:AP976405E1,sonar-pro,metadata, CID          ,Unknown
+418,pid_graph:AP8C366A43,sonar-pro,structure, CID        ,Unknown
+419,pid_graph:APC960F459,sonar-pro,governance, CID        ,Unknown
+420,pid_graph:AP9E1E4F0F,sonar-pro,metadata, COL          ,Unknown
+421,pid_graph:AP23DD2DC3,sonar-pro,structure, COL        ,Unknown
+422,pid_graph:AP176353A6,sonar-pro,governance, COL        ,Unknown
+423,pid_graph:APBC4ED9AE,sonar-pro,metadata, CONFIDENT          ,Common Metadata Schema for Identifier
+424,pid_graph:AP270678E7,sonar-pro,structure, CONFIDENT        ,Unknown
+425,pid_graph:AP616BE19E,sonar-pro,governance, CONFIDENT        ,Unknown
+426,pid_graph:AP90DC4CBE,sonar-pro,metadata, CrossRef Funders          ,Common Metadata Schema for Identifier
+427,pid_graph:AP9F50B014,sonar-pro,structure, CrossRef Funders        ,Allows Managed Prefix
+428,pid_graph:APB14CA239,sonar-pro,governance, CrossRef Funders        ,Membership Governance
+429,pid_graph:APCC28274C,sonar-pro,metadata, CrossRef Grant          ,Common Metadata Schema for Identifier
+430,pid_graph:AP274D5C6B,sonar-pro,structure, CrossRef Grant        ,Unknown
+431,pid_graph:AP597F59DB,sonar-pro,governance, CrossRef Grant        ,Membership Governance
+432,pid_graph:APB348C351,sonar-pro,metadata, CURIE          ,Custom/Non-Standard Metadata Schema
+433,pid_graph:APE8119A5B,sonar-pro,structure, CURIE        ,Allows User Semantics
+434,pid_graph:AP6979A35B,sonar-pro,governance, CURIE        ,Unknown
+435,pid_graph:APA584EC26,sonar-pro,metadata, DAI          ,Common Metadata Schema for Identifier
+436,pid_graph:AP1A5E3499,sonar-pro,structure, DAI        ,Unknown
+437,pid_graph:AP30C00B40,sonar-pro,governance, DAI        ,Unknown
+438,pid_graph:APEE8B1A78,sonar-pro,metadata, dbGaP ID          ,Common Metadata Schema for Identifier
+439,pid_graph:AP812FA79A,sonar-pro,structure, dbGaP ID        ,Allows Managed Prefix
+440,pid_graph:AP83CDEF7F,sonar-pro,governance, dbGaP ID        ,Closed Governance
+441,pid_graph:APEE5608D4,sonar-pro,metadata, dbVar ID          ,Common Metadata Schema for Identifier
+442,pid_graph:APF48583B8,sonar-pro,structure, dbVar ID        ,Allows User Semantics
+443,pid_graph:AP8D35EB64,sonar-pro,governance, dbVar ID        ,Unknown
+444,pid_graph:AP87089D7B,sonar-pro,metadata, DCO-ID          ,Unknown
+445,pid_graph:AP0836AE2E,sonar-pro,structure, DCO-ID        ,Allows Managed Prefix
+446,pid_graph:AP04550BA3,sonar-pro,governance, DCO-ID        ,Unknown
+447,pid_graph:AP2612AE71,sonar-pro,metadata, DOI          ,Common Metadata Schema for Identifier
+448,pid_graph:APC78C3DB2,sonar-pro,structure, DOI        ,Allows Managed Prefix
+449,pid_graph:AP0CBD050A,sonar-pro,governance, DOI        ,Membership Governance
+450,pid_graph:APCBCE9509,sonar-pro,metadata, DOI: Crossref          ,Common Metadata Schema for Identifier
+451,pid_graph:APD3CBC35A,sonar-pro,structure, DOI: Crossref        ,Allows Managed Prefix
+452,pid_graph:APFECF4E9A,sonar-pro,governance, DOI: Crossref        ,Membership Governance
+453,pid_graph:APA4F7AFC5,sonar-pro,metadata, DOI: DataCIte          ,Common Metadata Schema for Identifier
+454,pid_graph:AP54F5A8C5,sonar-pro,structure, DOI: DataCIte        ,Allows Managed Prefix
+455,pid_graph:APACC51745,sonar-pro,governance, DOI: DataCIte        ,Membership Governance
+456,pid_graph:APAB4D8E16,sonar-pro,metadata, dPID          ,Unknown
+457,pid_graph:AP4D79AE46,sonar-pro,structure, dPID        ,Unknown
+458,pid_graph:AP465C8F9B,sonar-pro,governance, dPID        ,Unknown
+459,pid_graph:AP1FA8DD4D,sonar-pro,metadata, EAN13          ,Common Metadata Schema for Identifier
+460,pid_graph:AP008A72BB,sonar-pro,structure, EAN13        ,Predefined Identifier Structure
+461,pid_graph:AP74870860,sonar-pro,governance, EAN13        ,Closed Governance
+462,pid_graph:AP42E588EA,sonar-pro,metadata, EIDR          ,Common Metadata Schema for Identifier
+463,pid_graph:APDDE88F7A,sonar-pro,structure, EIDR        ,Allows Managed Prefix
+464,pid_graph:AP3FC5DA6E,sonar-pro,governance, EIDR        ,Membership Governance
+465,pid_graph:AP20762F6F,sonar-pro,metadata, eISSN          ,Common Metadata Schema for Identifier
+466,pid_graph:APDEDAAED6,sonar-pro,structure, eISSN        ,Predefined Identifier Structure
+467,pid_graph:AP54E6DC39,sonar-pro,governance, eISSN        ,Not found
+468,pid_graph:APA029325E,sonar-pro,metadata, ePIC          ,Common Metadata Schema for Identifier
+469,pid_graph:AP43F63ECF,sonar-pro,structure, ePIC        ,Allows Managed Prefix
+470,pid_graph:APDBFE2C81,sonar-pro,governance, ePIC        ,Community Governance
+471,pid_graph:AP2F81A369,sonar-pro,metadata, EU PIC          ,Common Metadata Schema for Identifier
+472,pid_graph:APE1164A02,sonar-pro,structure, EU PIC        ,Predefined Identifier Structure
+473,pid_graph:AP50CB1C70,sonar-pro,governance, EU PIC        ,Closed Governance
+474,pid_graph:AP36184D4F,sonar-pro,metadata, GDS ID          ,Unknown
+475,pid_graph:APBA897E6E,sonar-pro,structure, GDS ID        ,Unknown
+476,pid_graph:AP20D51928,sonar-pro,governance, GDS ID        ,Unknown
+477,pid_graph:AP20F6722D,sonar-pro,metadata, Gene ID          ,Common Metadata Schema for Identifier
+478,pid_graph:AP0FC6D012,sonar-pro,structure, Gene ID        ,Allows Managed Prefix
+479,pid_graph:AP47F83F1D,sonar-pro,governance, Gene ID        ,Unknown
+480,pid_graph:AP4A547ED8,sonar-pro,metadata, Genome ID          ,Common Metadata Schema for Identifier
+481,pid_graph:AP8FA83972,sonar-pro,structure, Genome ID        ,Unknown
+482,pid_graph:APF81BE2C9,sonar-pro,governance, Genome ID        ,Unknown
+483,pid_graph:APF227146D,sonar-pro,metadata, GEO ID          ,Common Metadata Schema for Identifier
+484,pid_graph:APADA8D84A,sonar-pro,structure, GEO ID        ,Unknown
+485,pid_graph:AP3694E36A,sonar-pro,governance, GEO ID        ,Unknown
+486,pid_graph:AP6CF04046,sonar-pro,metadata, GeoNames ID          ,Common Metadata Schema for Identifier
+487,pid_graph:APB2DCC5D7,sonar-pro,structure, GeoNames ID        ,Predefined Identifier Structure
+488,pid_graph:APD5318F6F,sonar-pro,governance, GeoNames ID        ,Community Governance
+489,pid_graph:APCAA40432,sonar-pro,metadata, GePRIS          ,Unknown
+490,pid_graph:APEDB5CEE1,sonar-pro,structure, GePRIS        ,Unknown
+491,pid_graph:AP83436876,sonar-pro,governance, GePRIS        ,Closed Governance
+492,pid_graph:AP3E5E98F9,sonar-pro,metadata, GitHub          ,No Metadata Schema Prescribed
+493,pid_graph:AP40DD730F,sonar-pro,structure, GitHub        ,Unknown
+494,pid_graph:AP44973F39,sonar-pro,governance, GitHub        ,Closed Governance
+495,pid_graph:AP5428EF35,sonar-pro,metadata, GitLab          ,Common Metadata Schema for Identifier
+496,pid_graph:APB871BA12,sonar-pro,structure, GitLab        ,Unknown
+497,pid_graph:APA8C94E25,sonar-pro,governance, GitLab        ,Closed Governance
+498,pid_graph:APD69025E8,sonar-pro,metadata, GND          ,Common Metadata Schema for Identifier
+499,pid_graph:AP41EEDFA7,sonar-pro,structure, GND        ,Allows Managed Prefix
+500,pid_graph:AP6E6D5C30,sonar-pro,governance, GND        ,Membership Governance
+501,pid_graph:AP6E5F2D33,sonar-pro,metadata, GRID          ,Common Metadata Schema for Identifier
+502,pid_graph:APC2B0AB24,sonar-pro,structure, GRID        ,Predefined Identifier Structure
+503,pid_graph:AP5E8CBD88,sonar-pro,governance, GRID        ,Closed Governance
+504,pid_graph:AP3BD1D0E2,sonar-pro,metadata, HAL article ID          ,Common Metadata Schema for Identifier
+505,pid_graph:APDC435CD4,sonar-pro,structure, HAL article ID        ,Allows Managed Prefix
+506,pid_graph:APEAA02D0B,sonar-pro,governance, HAL article ID        ,Community Governance
+507,pid_graph:AP00020867,sonar-pro,metadata, Handle          ,No Metadata Schema Prescribed
+508,pid_graph:AP4469A5BA,sonar-pro,structure, Handle        ,Allows Managed Prefix
+509,pid_graph:AP0F2275C8,sonar-pro,governance, Handle        ,Membership Governance
+510,pid_graph:AP24F370F6,sonar-pro,metadata, HomoloGene ID          ,Common Metadata Schema for Identifier
+511,pid_graph:AP6F534EA6,sonar-pro,structure, HomoloGene ID        ,Predefined Identifier Structure
+512,pid_graph:AP41BD0D5C,sonar-pro,governance, HomoloGene ID        ,Closed Governance
+513,pid_graph:APE97E0CC3,sonar-pro,metadata, ICD          ,Common Metadata Schema for Identifier
+514,pid_graph:AP63D05DFB,sonar-pro,structure, ICD        ,Predefined Identifier Structure
+515,pid_graph:AP255501AC,sonar-pro,governance, ICD        ,Unknown
+516,pid_graph:APB015562B,sonar-pro,metadata, IdRef ID/SUDOC          ,Common Metadata Schema for Identifier
+517,pid_graph:AP0231C030,sonar-pro,structure, IdRef ID/SUDOC        ,Unknown
+518,pid_graph:AP5746046F,sonar-pro,governance, IdRef ID/SUDOC        ,Closed Governance
+519,pid_graph:AP8FB6AB92,sonar-pro,metadata, IGSN          ,Common Metadata Schema for Identifier
+520,pid_graph:AP14D04DF1,sonar-pro,structure, IGSN        ,Allows Managed Prefix
+521,pid_graph:APD54862FF,sonar-pro,governance, IGSN        ,Community Governance
+522,pid_graph:AP7B67FCCA,sonar-pro,metadata, IMDb company ID          ,Common Metadata Schema for Identifier
+523,pid_graph:AP0C138228,sonar-pro,structure, IMDb company ID        ,Predefined Identifier Structure
+524,pid_graph:AP29F299C4,sonar-pro,governance, IMDb company ID        ,Closed Governance
+525,pid_graph:AP467B3D93,sonar-pro,metadata, IMDb name ID          ,Common Metadata Schema for Identifier
+526,pid_graph:AP1B2389C1,sonar-pro,structure, IMDb name ID        ,Predefined Identifier Structure
+527,pid_graph:APB32E5D2A,sonar-pro,governance, IMDb name ID        ,Closed Governance
+528,pid_graph:AP2F9ECB9A,sonar-pro,metadata, IMDb title ID          ,Common Metadata Schema for Identifier
+529,pid_graph:APFF871014,sonar-pro,structure, IMDb title ID        ,Predefined Identifier Structure
+530,pid_graph:APDFA9412C,sonar-pro,governance, IMDb title ID        ,Closed Governance
+531,pid_graph:AP4155F6FC,sonar-pro,metadata, InChI          ,Common Metadata Schema for Identifier
+532,pid_graph:APB9F25EC0,sonar-pro,structure, InChI        ,Predefined Identifier Structure
+533,pid_graph:APB1ACF5EC,sonar-pro,governance, InChI        ,Community Governance
+534,pid_graph:AP6385B7E8,sonar-pro,metadata, InChiKey          ,Common Metadata Schema for Identifier
+535,pid_graph:APE43DF2F1,sonar-pro,structure, InChiKey        ,Predefined Identifier Structure
+536,pid_graph:AP280EF53A,sonar-pro,governance, InChiKey        ,Membership Governance
+537,pid_graph:AP2F6DC05F,sonar-pro,metadata, ISLRN          ,Common Metadata Schema for Identifier
+538,pid_graph:AP86BB4C52,sonar-pro,structure, ISLRN        ,Predefined Identifier Structure
+539,pid_graph:AP63DA317C,sonar-pro,governance, ISLRN        ,Community Governance
+540,pid_graph:AP6F9E67F9,sonar-pro,metadata, JuFo-id          ,Unknown
+541,pid_graph:APC398F12C,sonar-pro,structure, JuFo-id        ,Allows User Semantics
+542,pid_graph:AP019C2007,sonar-pro,governance, JuFo-id        ,Membership Governance
+543,pid_graph:AP74ED4DAC,sonar-pro,metadata, Korean national author ID          ,Metadata Schema per Entity
+544,pid_graph:APA6478541,sonar-pro,structure, Korean national author ID        ,Unknown
+545,pid_graph:AP80D2F77A,sonar-pro,governance, Korean national author ID        ,Unknown
+546,pid_graph:APE6C66BED,sonar-pro,metadata, Korean national research ID          ,Common Metadata Schema for Identifier
+547,pid_graph:AP9F9F567B,sonar-pro,structure, Korean national research ID        ,Allows Managed Prefix
+548,pid_graph:APD6651D72,sonar-pro,governance, Korean national research ID        ,Not found
+549,pid_graph:APCF3FB0BE,sonar-pro,metadata, Korean research funding ID          ,Common Metadata Schema for Identifier
+550,pid_graph:AP4111DC84,sonar-pro,structure, Korean research funding ID        ,Allows Managed Prefix
+551,pid_graph:AP9E04E8CB,sonar-pro,governance, Korean research funding ID        ,Unknown
+552,pid_graph:AP5D2FDC2A,sonar-pro,metadata, LCCN          ,Common Metadata Schema for Identifier
+553,pid_graph:AP7B31B20C,sonar-pro,structure, LCCN        ,Predefined Identifier Structure
+554,pid_graph:AP58638AF5,sonar-pro,governance, LCCN        ,Closed Governance
+555,pid_graph:AP4EF27E24,sonar-pro,metadata, Magnet          ,Unknown
+556,pid_graph:AP03CE79FB,sonar-pro,structure, Magnet        ,Unknown
+557,pid_graph:APE21DA080,sonar-pro,governance, Magnet        ,Unknown
+558,pid_graph:AP6738935D,sonar-pro,metadata, MeSH ID                  ,Not found
+559,pid_graph:APB05A4B11,sonar-pro,structure, MeSH ID                ,Predefined Identifier Structure
+560,pid_graph:AP2EB20D15,sonar-pro,governance, MeSH ID                ,Closed Governance
+561,pid_graph:APEB634698,sonar-pro,metadata, MMDB-ID          ,Unknown
+562,pid_graph:AP0CCEA739,sonar-pro,structure, MMDB-ID        ,Allows Managed Prefix
+563,pid_graph:AP2F153C01,sonar-pro,governance, MMDB-ID        ,Closed Governance
+564,pid_graph:AP5CF1B4C1,sonar-pro,metadata, NLM Catalog ID                  ,Common Metadata Schema for Identifier
+565,pid_graph:AP029E47DC,sonar-pro,structure, NLM Catalog ID                ,Not found
+566,pid_graph:APCA9AA9E1,sonar-pro,governance, NLM Catalog ID                ,Closed Governance
+567,pid_graph:AP70BE25FF,sonar-pro,metadata, Not Applicable          ,Common Metadata Schema for Identifier
+568,pid_graph:APA6BCCF63,sonar-pro,structure, Not Applicable        ,Not found
+569,pid_graph:APF4974ACA,sonar-pro,governance, Not Applicable        ,Not found
+570,pid_graph:AP53981094,sonar-pro,metadata, Nucleotide GI number          ,Common Metadata Schema for Identifier
+571,pid_graph:APBBBBB713,sonar-pro,structure, Nucleotide GI number        ,Predefined Identifier Structure
+572,pid_graph:AP41E1AC11,sonar-pro,governance, Nucleotide GI number        ,Closed Governance
+573,pid_graph:APB173FFF0,sonar-pro,metadata, NZBN          ,Common Metadata Schema for Identifier
+574,pid_graph:APBA5DD685,sonar-pro,structure, NZBN        ,Predefined Identifier Structure
+575,pid_graph:AP2EE14DB7,sonar-pro,governance, NZBN        ,Closed Governance
+576,pid_graph:APC5C22996,sonar-pro,metadata, OCLC Control Number          ,Common Metadata Schema for Identifier
+577,pid_graph:AP1F6075CD,sonar-pro,structure, OCLC Control Number        ,Predefined Identifier Structure
+578,pid_graph:APCD964D26,sonar-pro,governance, OCLC Control Number        ,Membership Governance
+579,pid_graph:AP8DBAC70B,sonar-pro,metadata, OMID          ,Unknown
+580,pid_graph:AP59F49789,sonar-pro,structure, OMID        ,Unknown
+581,pid_graph:AP6C01C71B,sonar-pro,governance, OMID        ,Closed Governance
+582,pid_graph:AP5DA0C49A,sonar-pro,metadata, OpenCitations Corpus          ,Common Metadata Schema for Identifier
+583,pid_graph:AP2B00BC9D,sonar-pro,structure, OpenCitations Corpus        ,Unknown
+584,pid_graph:APFDDF503D,sonar-pro,governance, OpenCitations Corpus        ,Community Governance
+585,pid_graph:AP0083A0FC,sonar-pro,metadata, OpenURL          ,Common Metadata Schema for Identifier
+586,pid_graph:AP88EFB98B,sonar-pro,structure, OpenURL        ,Unknown
+587,pid_graph:AP9A3F5A67,sonar-pro,governance, OpenURL        ,Unknown
+588,pid_graph:AP7D810794,sonar-pro,metadata, ORCID          ,Common Metadata Schema for Identifier
+589,pid_graph:AP81041596,sonar-pro,structure, ORCID        ,Predefined Identifier Structure
+590,pid_graph:AP16865E56,sonar-pro,governance, ORCID        ,Membership Governance
+591,pid_graph:APD3475549,sonar-pro,metadata, PIC          ,Unknown
+592,pid_graph:AP82BD1819,sonar-pro,structure, PIC        ,Predefined Identifier Structure
+593,pid_graph:APA83AF369,sonar-pro,governance, PIC        ,Membership Governance
+594,pid_graph:APB6317CD0,sonar-pro,metadata, PIDINST          ,Common Metadata Schema for Identifier
+595,pid_graph:AP35481675,sonar-pro,structure, PIDINST        ,Allows Managed Prefix
+596,pid_graph:AP630E1FF9,sonar-pro,governance, PIDINST        ,Community Governance
+597,pid_graph:AP66D2281D,sonar-pro,metadata, PMCID          ,Common Metadata Schema for Identifier
+598,pid_graph:AP24D61379,sonar-pro,structure, PMCID        ,Predefined Identifier Structure
+599,pid_graph:AP6DF970DB,sonar-pro,governance, PMCID        ,Closed Governance
+600,pid_graph:AP17D97E05,sonar-pro,metadata, PMID          ,Common Metadata Schema for Identifier
+601,pid_graph:APF12AC377,sonar-pro,structure, PMID        ,Predefined Identifier Structure
+602,pid_graph:AP122B8B02,sonar-pro,governance, PMID        ,Closed Governance
+603,pid_graph:APB613D8F3,sonar-pro,metadata, PopSet ID          ,Unknown
+604,pid_graph:APAF52A37B,sonar-pro,structure, PopSet ID        ,Predefined Identifier Structure
+605,pid_graph:AP771E99DE,sonar-pro,governance, PopSet ID        ,Unknown
+606,pid_graph:AP7B808368,sonar-pro,metadata, Probe ID	          ,Unknown
+607,pid_graph:AP6F53FD22,sonar-pro,structure, Probe ID	        ,Unknown
+608,pid_graph:AP68E76830,sonar-pro,governance, Probe ID	        ,Unknown
+609,pid_graph:AP4CC2CB06,sonar-pro,metadata, Protein Cluster ID          ,Common Metadata Schema for Identifier
+610,pid_graph:APF7278F65,sonar-pro,structure, Protein Cluster ID        ,Predefined Identifier Structure
+611,pid_graph:AP76E23EFE,sonar-pro,governance, Protein Cluster ID        ,Closed Governance
+612,pid_graph:AP9D51279A,sonar-pro,metadata, Protein GI number                  ,Common Metadata Schema for Identifier
+613,pid_graph:AP8B5171A8,sonar-pro,structure, Protein GI number                ,Predefined Identifier Structure
+614,pid_graph:AP58A13B57,sonar-pro,governance, Protein GI number                ,Closed Governance
+615,pid_graph:AP081DC501,sonar-pro,metadata, PSSM-ID          ,Common Metadata Schema for Identifier
+616,pid_graph:APC1AE8CB1,sonar-pro,structure, PSSM-ID        ,Unknown
+617,pid_graph:AP250EEDA7,sonar-pro,governance, PSSM-ID        ,Unknown
+618,pid_graph:AP4F64AFEA,sonar-pro,metadata, PURL          ,No Metadata Schema Prescribed
+619,pid_graph:APD323BE85,sonar-pro,structure, PURL        ,Allows Managed Prefix
+620,pid_graph:AP233209E1,sonar-pro,governance, PURL        ,Community Governance
+621,pid_graph:AP9BB7F4B0,sonar-pro,metadata, QID          ,Unknown
+622,pid_graph:AP24661F28,sonar-pro,structure, QID        ,Predefined Identifier Structure
+623,pid_graph:AP302A7BDF,sonar-pro,governance, QID        ,Community Governance
+624,pid_graph:AP12886CA8,sonar-pro,metadata, QID / WDQID          ,Common Metadata Schema for Identifier
+625,pid_graph:AP7451B76B,sonar-pro,structure, QID / WDQID        ,Predefined Identifier Structure
+626,pid_graph:APCDD846E8,sonar-pro,governance, QID / WDQID        ,Community Governance
+627,pid_graph:AP9D251C3A,sonar-pro,metadata, RAI ID          ,Unknown
+628,pid_graph:AP0BE95936,sonar-pro,structure, RAI ID        ,Unknown
+629,pid_graph:APC1A9B4B3,sonar-pro,governance, RAI ID        ,Unknown
+630,pid_graph:APB8E8DCE4,sonar-pro,metadata, RAID          ,Common Metadata Schema for Identifier
+631,pid_graph:AP51540E88,sonar-pro,structure, RAID        ,Allows Managed Prefix
+632,pid_graph:AP859D1534,sonar-pro,governance, RAID        ,Closed Governance
+633,pid_graph:AP89C8EE43,sonar-pro,metadata, re3data          ,Common Metadata Schema for Identifier
+634,pid_graph:APB47E1679,sonar-pro,structure, re3data        ,Allows Managed Prefix
+635,pid_graph:APB59ED806,sonar-pro,governance, re3data        ,Membership Governance
+636,pid_graph:APFBB0F8ED,sonar-pro,metadata, ResearcherID          ,Common Metadata Schema for Identifier
+637,pid_graph:APA2F8F74F,sonar-pro,structure, ResearcherID        ,Predefined Identifier Structure
+638,pid_graph:APA636BF1B,sonar-pro,governance, ResearcherID        ,Closed Governance
+639,pid_graph:APD5B179EE,sonar-pro,metadata, RIN          ,Common Metadata Schema for Identifier
+640,pid_graph:APB40AC3DF,sonar-pro,structure, RIN        ,Unknown
+641,pid_graph:AP0950C9DD,sonar-pro,governance, RIN        ,Unknown
+642,pid_graph:AP22F38D2B,sonar-pro,metadata, Ringgold ID          ,Common Metadata Schema for Identifier
+643,pid_graph:AP55A19C0A,sonar-pro,structure, Ringgold ID        ,Predefined Identifier Structure
+644,pid_graph:AP3F9E9BFF,sonar-pro,governance, Ringgold ID        ,Closed Governance
+645,pid_graph:AP04C901EF,sonar-pro,metadata, RoR          ,Common Metadata Schema for Identifier
+646,pid_graph:AP13910A84,sonar-pro,structure, RoR        ,Allows Managed Prefix
+647,pid_graph:APA7C43556,sonar-pro,governance, RoR        ,Community Governance
+648,pid_graph:AP1F34D3F3,sonar-pro,metadata, rs number          ,Common Metadata Schema for Identifier
+649,pid_graph:APF89129D5,sonar-pro,structure, rs number        ,Predefined Identifier Structure
+650,pid_graph:AP61B306B3,sonar-pro,governance, rs number        ,Unknown
+651,pid_graph:AP601F5278,sonar-pro,metadata, SBN/ ICCU          ,Custom/Non-Standard Metadata Schema
+652,pid_graph:AP13E95759,sonar-pro,structure, SBN/ ICCU        ,Allows Managed Prefix
+653,pid_graph:AP003CE5B6,sonar-pro,governance, SBN/ ICCU        ,Closed Governance
+654,pid_graph:AP871CA747,sonar-pro,metadata, ScopusAuthorID          ,Common Metadata Schema for Identifier
+655,pid_graph:APD2AA2CAE,sonar-pro,structure, ScopusAuthorID        ,Predefined Identifier Structure
+656,pid_graph:APC078C0B4,sonar-pro,governance, ScopusAuthorID        ,Closed Governance
+657,pid_graph:AP2E835A26,sonar-pro,metadata, SF-edu-ID          ,Unknown
+658,pid_graph:AP7CA8025A,sonar-pro,structure, SF-edu-ID        ,Allows User Semantics
+659,pid_graph:APE652FBBF,sonar-pro,governance, SF-edu-ID        ,Unknown
+660,pid_graph:APBDD4B434,sonar-pro,metadata, SID          ,Unknown
+661,pid_graph:AP6EA196DB,sonar-pro,structure, SID        ,Unknown
+662,pid_graph:AP31E9868B,sonar-pro,governance, SID        ,Unknown
+663,pid_graph:APE3C87BEA,sonar-pro,metadata, SRA ID	          ,Common Metadata Schema for Identifier
+664,pid_graph:AP6D603DA4,sonar-pro,structure, SRA ID	        ,Predefined Identifier Structure
+665,pid_graph:APA248A5ED,sonar-pro,governance, SRA ID	        ,Closed Governance
+666,pid_graph:AP02792AD9,sonar-pro,metadata, SWHID          ,No Metadata Schema Prescribed
+667,pid_graph:APA71CA0B8,sonar-pro,structure, SWHID        ,Predefined Identifier Structure
+668,pid_graph:AP1BF042FD,sonar-pro,governance, SWHID        ,Community Governance
+669,pid_graph:AP9F80F671,sonar-pro,metadata, swMath          ,Custom/Non-Standard Metadata Schema
+670,pid_graph:AP17D5FC42,sonar-pro,structure, swMath        ,Unknown
+671,pid_graph:AP1B0F5B93,sonar-pro,governance, swMath        ,Community Governance
+672,pid_graph:AP529FD2A0,sonar-pro,metadata, TaxID          ,Common Metadata Schema for Identifier
+673,pid_graph:APE0B80A54,sonar-pro,structure, TaxID        ,Allows User Semantics
+674,pid_graph:AP3265217D,sonar-pro,governance, TaxID        ,Unknown
+675,pid_graph:APB45BCFB1,sonar-pro,metadata, Toolkit ID          ,Custom/Non-Standard Metadata Schema
+676,pid_graph:AP8D109242,sonar-pro,structure, Toolkit ID        ,Unknown
+677,pid_graph:APF06F7791,sonar-pro,governance, Toolkit ID        ,Unknown
+678,pid_graph:APE10DB0CA,sonar-pro,metadata, UID          ,No Metadata Schema Prescribed
+679,pid_graph:AP749BE009,sonar-pro,structure, UID        ,Unknown
+680,pid_graph:APE37E4143,sonar-pro,governance, UID        ,Unknown
+681,pid_graph:APE08AC1DC,sonar-pro,metadata, ULAN ID          ,Common Metadata Schema for Identifier
+682,pid_graph:AP7A155E4F,sonar-pro,structure, ULAN ID        ,Predefined Identifier Structure
+683,pid_graph:AP8C45FDC4,sonar-pro,governance, ULAN ID        ,Closed Governance
+684,pid_graph:AP584D2747,sonar-pro,metadata, UPC          ,Common Metadata Schema for Identifier
+685,pid_graph:APD8FB5006,sonar-pro,structure, UPC        ,Predefined Identifier Structure
+686,pid_graph:APC385022A,sonar-pro,governance, UPC        ,Closed Governance
+687,pid_graph:AP29532593,sonar-pro,metadata, URI          ,Common Metadata Schema for Identifier
+688,pid_graph:AP0A48644D,sonar-pro,structure, URI        ,Allows User Semantics
+689,pid_graph:APA5F563BA,sonar-pro,governance, URI        ,Unknown
+690,pid_graph:APBE084F48,sonar-pro,metadata, URL          ,No Metadata Schema Prescribed
+691,pid_graph:AP5680C5F2,sonar-pro,structure, URL        ,Predefined Identifier Structure
+692,pid_graph:APE020CAC1,sonar-pro,governance, URL        ,Closed Governance
+693,pid_graph:AP47B77A43,sonar-pro,metadata, URN          ,Common Metadata Schema for Identifier
+694,pid_graph:AP15A529D5,sonar-pro,structure, URN        ,Allows Managed Prefix
+695,pid_graph:AP6D29F6AE,sonar-pro,governance, URN        ,Unknown
+696,pid_graph:APC81FBDC0,sonar-pro,metadata, URN: ISNI          ,Common Metadata Schema for Identifier
+697,pid_graph:AP9AA0F7B0,sonar-pro,structure, URN: ISNI        ,Predefined Identifier Structure
+698,pid_graph:AP02F282D6,sonar-pro,governance, URN: ISNI        ,Membership Governance
+699,pid_graph:AP375881EC,sonar-pro,metadata, URN:ISAN          ,Common Metadata Schema for Identifier
+700,pid_graph:APE9F909C1,sonar-pro,structure, URN:ISAN        ,Allows Managed Prefix
+701,pid_graph:APECABCDF0,sonar-pro,governance, URN:ISAN        ,Closed Governance
+702,pid_graph:APBD5CAF48,sonar-pro,metadata, URN:ISBN          ,Common Metadata Schema for Identifier
+703,pid_graph:AP581A2E6A,sonar-pro,structure, URN:ISBN        ,Allows Managed Prefix
+704,pid_graph:APEA79E2A3,sonar-pro,governance, URN:ISBN        ,Membership Governance
+705,pid_graph:APB2451703,sonar-pro,metadata, URN:ISMN          ,Common Metadata Schema for Identifier
+706,pid_graph:APC0D0020B,sonar-pro,structure, URN:ISMN        ,Allows Managed Prefix
+707,pid_graph:AP961AD1E8,sonar-pro,governance, URN:ISMN        ,Membership Governance
+708,pid_graph:AP93F3087C,sonar-pro,metadata, URN:ISRC          ,Common Metadata Schema for Identifier
+709,pid_graph:AP42A7F113,sonar-pro,structure, URN:ISRC        ,Allows Managed Prefix
+710,pid_graph:AP7D34010C,sonar-pro,governance, URN:ISRC        ,Membership Governance
+711,pid_graph:APC000FCF3,sonar-pro,metadata, URN:ISSN          ,Common Metadata Schema for Identifier
+712,pid_graph:AP187CDD0A,sonar-pro,structure, URN:ISSN        ,Allows Managed Prefix
+713,pid_graph:APDC13283D,sonar-pro,governance, URN:ISSN        ,Membership Governance
+714,pid_graph:AP9FC1B88A,sonar-pro,metadata, URN:ISTC          ,Common Metadata Schema for Identifier
+715,pid_graph:AP38475C9C,sonar-pro,structure, URN:ISTC        ,Allows Managed Prefix
+716,pid_graph:APE55C3999,sonar-pro,governance, URN:ISTC        ,Membership Governance
+717,pid_graph:AP005C40F0,sonar-pro,metadata, URN:LSID          ,Common Metadata Schema for Identifier
+718,pid_graph:AP2BA8D837,sonar-pro,structure, URN:LSID        ,Predefined Identifier Structure
+719,pid_graph:AP33292EE6,sonar-pro,governance, URN:LSID        ,Unknown
+720,pid_graph:AP879F91DA,sonar-pro,metadata, URN:NBN          ,Common Metadata Schema for Identifier
+721,pid_graph:APF4D0217E,sonar-pro,structure, URN:NBN        ,Allows Managed Prefix
+722,pid_graph:APE9FEFC10,sonar-pro,governance, URN:NBN        ,Community Governance
+723,pid_graph:AP35379189,sonar-pro,metadata, URN:NBN:AT          ,Common Metadata Schema for Identifier
+724,pid_graph:AP5DD38089,sonar-pro,structure, URN:NBN:AT        ,Allows Managed Prefix
+725,pid_graph:AP5AC141ED,sonar-pro,governance, URN:NBN:AT        ,Closed Governance
+726,pid_graph:AP67797786,sonar-pro,metadata, URN:NBN:CH          ,Common Metadata Schema for Identifier
+727,pid_graph:AP4E3269C8,sonar-pro,structure, URN:NBN:CH        ,Allows Managed Prefix
+728,pid_graph:AP2C27A186,sonar-pro,governance, URN:NBN:CH        ,Community Governance
+729,pid_graph:AP5DA5EA61,sonar-pro,metadata, URN:NBN:CZ          ,Common Metadata Schema for Identifier
+730,pid_graph:AP2018E440,sonar-pro,structure, URN:NBN:CZ        ,Allows Managed Prefix
+731,pid_graph:AP7DCB65C3,sonar-pro,governance, URN:NBN:CZ        ,Community Governance
+732,pid_graph:APD43D9D7A,sonar-pro,metadata, URN:NBN:DE          ,Common Metadata Schema for Identifier
+733,pid_graph:AP0B31C7E4,sonar-pro,structure, URN:NBN:DE        ,Allows Managed Prefix
+734,pid_graph:AP34DC7494,sonar-pro,governance, URN:NBN:DE        ,Closed Governance
+735,pid_graph:AP8C2027B4,sonar-pro,metadata, URN:NBN:FI          ,Common Metadata Schema for Identifier
+736,pid_graph:AP3993327E,sonar-pro,structure, URN:NBN:FI        ,Allows Managed Prefix
+737,pid_graph:AP360C0A06,sonar-pro,governance, URN:NBN:FI        ,Closed Governance
+738,pid_graph:AP9DFF8EC7,sonar-pro,metadata, URN:NBN:HR          ,Common Metadata Schema for Identifier
+739,pid_graph:AP0DCB0A39,sonar-pro,structure, URN:NBN:HR        ,Allows Managed Prefix
+740,pid_graph:APC831A248,sonar-pro,governance, URN:NBN:HR        ,Closed Governance
+741,pid_graph:APD3EF3679,sonar-pro,metadata, URN:NBN:HU          ,Common Metadata Schema for Identifier
+742,pid_graph:AP634AAFA6,sonar-pro,structure, URN:NBN:HU        ,Allows Managed Prefix
+743,pid_graph:APB290B509,sonar-pro,governance, URN:NBN:HU        ,Closed Governance
+744,pid_graph:APC6AF415F,sonar-pro,metadata, URN:NBN:IT          ,Common Metadata Schema for Identifier
+745,pid_graph:AP5204A4DD,sonar-pro,structure, URN:NBN:IT        ,Allows Managed Prefix
+746,pid_graph:APD0E42A86,sonar-pro,governance, URN:NBN:IT        ,Closed Governance
+747,pid_graph:APA8DCAE18,sonar-pro,metadata, URN:NBN:NL          ,Common Metadata Schema for Identifier
+748,pid_graph:APC69850A7,sonar-pro,structure, URN:NBN:NL        ,Allows Managed Prefix
+749,pid_graph:APB49FBB53,sonar-pro,governance, URN:NBN:NL        ,Closed Governance
+750,pid_graph:APBEDA92A2,sonar-pro,metadata, URN:NBN:NO          ,Common Metadata Schema for Identifier
+751,pid_graph:APE70070A7,sonar-pro,structure, URN:NBN:NO        ,Allows Managed Prefix
+752,pid_graph:AP0FD83CC6,sonar-pro,governance, URN:NBN:NO        ,Closed Governance
+753,pid_graph:AP51385679,sonar-pro,metadata, URN:NBN:SE          ,Common Metadata Schema for Identifier
+754,pid_graph:APBDD5A0A8,sonar-pro,structure, URN:NBN:SE        ,Not found
+755,pid_graph:AP3ED73B0A,sonar-pro,governance, URN:NBN:SE        ,Community Governance
+756,pid_graph:AP512931F7,sonar-pro,metadata, URN:NBN:SI          ,Common Metadata Schema for Identifier
+757,pid_graph:AP02FBBF95,sonar-pro,structure, URN:NBN:SI        ,Allows Managed Prefix
+758,pid_graph:AP31069560,sonar-pro,governance, URN:NBN:SI        ,Community Governance
+759,pid_graph:AP78BF9537,sonar-pro,metadata, URN:NBN:SK          ,Custom/Non-Standard Metadata Schema
+760,pid_graph:AP42B9E48F,sonar-pro,structure, URN:NBN:SK        ,Allows Managed Prefix
+761,pid_graph:APA1676874,sonar-pro,governance, URN:NBN:SK        ,Community Governance
+762,pid_graph:AP8E3653FD,sonar-pro,metadata, URN:OID          ,Not found
+763,pid_graph:AP79DFD282,sonar-pro,structure, URN:OID        ,Allows Managed Prefix
+764,pid_graph:APF64618F0,sonar-pro,governance, URN:OID        ,Closed Governance
+765,pid_graph:AP21F8146F,sonar-pro,metadata, VAT number          ,Common Metadata Schema for Identifier
+766,pid_graph:APD8B462C5,sonar-pro,structure, VAT number        ,Not found
+767,pid_graph:AP5B6C69C2,sonar-pro,governance, VAT number        ,Closed Governance
+768,pid_graph:AP94AAFBB3,sonar-pro,metadata, VIAF          ,Common Metadata Schema for Identifier
+769,pid_graph:APB2F083EA,sonar-pro,structure, VIAF        ,Predefined Identifier Structure
+770,pid_graph:APA3DD1B87,sonar-pro,governance, VIAF        ,Membership Governance
+771,pid_graph:AP70515643,sonar-pro,metadata, Virta-id          ,Common Metadata Schema for Identifier
+772,pid_graph:AP4F42D9A9,sonar-pro,structure, Virta-id        ,Allows Managed Prefix
+773,pid_graph:AP7C96698D,sonar-pro,governance, Virta-id        ,Unknown
+774,pid_graph:AP5CB12F9D,sonar-pro,metadata, W3ID          ,No Metadata Schema Prescribed
+775,pid_graph:AP3F135ED2,sonar-pro,structure, W3ID        ,Allows Managed Prefix
+776,pid_graph:AP93561257,sonar-pro,governance, W3ID        ,Community Governance
+777,pid_graph:AP2459B560,sonar-pro,metadata, Wikipedia          ,Custom/Non-Standard Metadata Schema
+778,pid_graph:APED7AC62D,sonar-pro,structure, Wikipedia        ,Unknown
+779,pid_graph:AP65037A33,sonar-pro,governance, Wikipedia        ,Community Governance
+780,pid_graph:APEEEF76C7,sonar-pro,metadata, WOS          ,Unknown
+781,pid_graph:AP66AA3373,sonar-pro,structure, WOS        ,Predefined Identifier Structure
+782,pid_graph:AP7BB4AC96,sonar-pro,governance, WOS        ,Closed Governance
+783,pid_graph:AP54F47914,sonar-pro,metadata, XRI          ,Custom/Non-Standard Metadata Schema
+784,pid_graph:APE881D4F8,sonar-pro,structure, XRI        ,Allows User Semantics
+785,pid_graph:AP7AC29262,sonar-pro,governance, XRI        ,Unknown
+786,pid_graph:AP7CCD0801,sonar-pro,metadata, Z39.88-2004          ,Common Metadata Schema for Identifier
+787,pid_graph:AP90F0EF38,sonar-pro,structure, Z39.88-2004        ,Predefined Identifier Structure
+788,pid_graph:AP2D2F5A67,sonar-pro,governance, Z39.88-2004        ,Membership Governance
+789,pid_graph:AP69A993B6,sonar-pro,metadata, zbMath          ,Common Metadata Schema for Identifier
+790,pid_graph:AP2C521C8D,sonar-pro,structure, zbMath        ,Allows Managed Prefix
+791,pid_graph:APF1B2D8F7,sonar-pro,governance, zbMath        ,Membership Governance
+792,pid_graph:APA90847B4,llama-online,metadata, AID          ,No Metadata Schema Prescribed
+793,pid_graph:APA5291B1A,llama-online,structure, AID        ,No Prefix
+794,pid_graph:AP0084EBE2,llama-online,governance, AID        ,Unknown
+795,pid_graph:APF0C2E798,llama-online,metadata, ARK          ,Common Metadata Schema for Identifier
+796,pid_graph:AP694C0163,llama-online,structure, ARK        ,Allows Managed Prefix
+797,pid_graph:APBF98AA2C,llama-online,governance, ARK        ,Community Governance
+798,pid_graph:APE249175E,llama-online,metadata, arXiv          ,No Metadata Schema Prescribed
+799,pid_graph:APE0EDD893,llama-online,structure, arXiv        ,Predefined Identifier Structure
+800,pid_graph:AP20B117BC,llama-online,governance, arXiv        ,Membership Governance
+801,pid_graph:AP58674C65,llama-online,metadata, BibCode          ,No Metadata Schema Prescribed
+802,pid_graph:AP4EA56B16,llama-online,structure, BibCode        ,Predefined Identifier Structure
+803,pid_graph:AP16CDF945,llama-online,governance, BibCode        ,Community Governance
+804,pid_graph:APC58CFAFD,llama-online,metadata, Bitbucket          ,No Metadata Schema Prescribed
+805,pid_graph:APA4423DE5,llama-online,structure, Bitbucket        ,No Prefix
+806,pid_graph:AP5C662928,llama-online,governance, Bitbucket        ,Unknown
+807,pid_graph:APF0150775,llama-online,metadata, Book ID          ,Common Metadata Schema for Identifier
+808,pid_graph:AP24101C17,llama-online,structure, Book ID        ,Predefined Identifier Structure
+809,pid_graph:AP6A66F298,llama-online,governance, Book ID        ,Community Governance
+810,pid_graph:AP28A0BECB,llama-online,metadata, BusinessID          ,No Metadata Schema Prescribed
+811,pid_graph:AP7709732F,llama-online,structure, BusinessID        ,No Prefix
+812,pid_graph:AP3D39CBEB,llama-online,governance, BusinessID        ,Unknown
+813,pid_graph:APAB5B9FC3,llama-online,metadata, CID          ,Not found
+814,pid_graph:AP0B5C318C,llama-online,structure, CID        ,Predefined Identifier Structure
+815,pid_graph:AP5446B7F1,llama-online,governance, CID        ,Community Governance
+816,pid_graph:APAF5C5A48,llama-online,metadata, COL          ,Common Metadata Schema for Identifier
+817,pid_graph:AP2DB983C5,llama-online,structure, COL        ,Predefined Identifier Structure
+818,pid_graph:APFBE085C1,llama-online,governance, COL        ,Membership Governance
+819,pid_graph:AP13195E90,llama-online,metadata, CONFIDENT          ,Common Metadata Schema for Identifier
+820,pid_graph:APD5FEABAA,llama-online,structure, CONFIDENT        ,Allows User Semantics
+821,pid_graph:AP0D4B2EB0,llama-online,governance, CONFIDENT        ,Membership Governance
+822,pid_graph:APBB2A28AC,llama-online,metadata, CrossRef Funders          ,No Metadata Schema Prescribed
+823,pid_graph:AP671EBF4F,llama-online,structure, CrossRef Funders        ,Predefined Identifier Structure
+824,pid_graph:AP835A4654,llama-online,governance, CrossRef Funders        ,Unknown
+825,pid_graph:AP19233429,llama-online,metadata, CrossRef Grant          ,No Metadata Schema Prescribed
+826,pid_graph:AP99EECE1A,llama-online,structure, CrossRef Grant        ,Predefined Identifier Structure
+827,pid_graph:AP69B0998D,llama-online,governance, CrossRef Grant        ,Membership Governance
+828,pid_graph:APAA3A7850,llama-online,metadata, CURIE          ,Common Metadata Schema for Identifier
+829,pid_graph:AP6AC85E76,llama-online,structure, CURIE        ,Allows Managed Prefix
+830,pid_graph:AP66F9FB95,llama-online,governance, CURIE        ,Community Governance
+831,pid_graph:AP326E47F6,llama-online,metadata, DAI          ,No Metadata Schema Prescribed
+832,pid_graph:AP8F28DB9A,llama-online,structure, DAI        ,Allows Managed Prefix
+833,pid_graph:APF5A5D3D8,llama-online,governance, DAI        ,Unknown
+834,pid_graph:AP2F104F7E,llama-online,metadata, dbGaP ID          ,No Metadata Schema Prescribed
+835,pid_graph:APDBEA95BA,llama-online,structure, dbGaP ID        ,Predefined Identifier Structure
+836,pid_graph:APDFC2D615,llama-online,governance, dbGaP ID        ,Closed Governance
+837,pid_graph:AP9F4CAE39,llama-online,metadata, dbVar ID          ,No Metadata Schema Prescribed
+838,pid_graph:APBFF9D23E,llama-online,structure, dbVar ID        ,Predefined Identifier Structure
+839,pid_graph:AP085AC47A,llama-online,governance, dbVar ID        ,Community Governance
+840,pid_graph:APA30FEE78,llama-online,metadata, DCO-ID          ,Common Metadata Schema for Identifier
+841,pid_graph:APC0409486,llama-online,structure, DCO-ID        ,Predefined Identifier Structure
+842,pid_graph:APA87D5A1B,llama-online,governance, DCO-ID        ,Closed Governance
+843,pid_graph:APD1DAE77D,llama-online,metadata, DOI          ,Common Metadata Schema for Identifier
+844,pid_graph:AP01FEEE7C,llama-online,structure, DOI        ,Allows Managed Prefix
+845,pid_graph:APB04A6AEF,llama-online,governance, DOI        ,Closed Governance
+846,pid_graph:AP1B9C7A3B,llama-online,metadata, DOI: Crossref          ,Common Metadata Schema for Identifier
+847,pid_graph:APF69C220E,llama-online,structure, DOI: Crossref        ,Allows Managed Prefix
+848,pid_graph:APC0A30A1B,llama-online,governance, DOI: Crossref        ,Membership Governance
+849,pid_graph:AP0CFC665F,llama-online,metadata, DOI: DataCIte          ,Common Metadata Schema for Identifier
+850,pid_graph:AP6537D421,llama-online,structure, DOI: DataCIte        ,Allows Managed Prefix
+851,pid_graph:AP15B2F2F3,llama-online,governance, DOI: DataCIte        ,Community Governance
+852,pid_graph:AP62074E5D,llama-online,metadata, dPID          ,Common Metadata Schema for Identifier
+853,pid_graph:AP634A2E29,llama-online,structure, dPID        ,Allows User Semantics
+854,pid_graph:AP295D267F,llama-online,governance, dPID        ,Community Governance
+855,pid_graph:AP24221CC1,llama-online,metadata, EAN13          ,No Metadata Schema Prescribed
+856,pid_graph:APD5452846,llama-online,structure, EAN13        ,Allows Managed Prefix
+857,pid_graph:APAF37D24B,llama-online,governance, EAN13        ,Unknown
+858,pid_graph:AP30A674C9,llama-online,metadata, EIDR          ,Common Metadata Schema for Identifier
+859,pid_graph:AP2386ACF2,llama-online,structure, EIDR        ,Predefined Identifier Structure
+860,pid_graph:AP96F692F0,llama-online,governance, EIDR        ,Membership Governance
+861,pid_graph:APB5F3330D,llama-online,metadata, eISSN          ,Common Metadata Schema for Identifier
+862,pid_graph:AP1472F79C,llama-online,structure, eISSN        ,Predefined Identifier Structure
+863,pid_graph:AP5AF29C59,llama-online,governance, eISSN        ,Membership Governance
+864,pid_graph:AP0D0EDC27,llama-online,metadata, ePIC          ,Common Metadata Schema for Identifier
+865,pid_graph:APF958977A,llama-online,structure, ePIC        ,Allows Managed Prefix
+866,pid_graph:APB204AE36,llama-online,governance, ePIC        ,Community Governance
+867,pid_graph:AP8F9D0AA3,llama-online,metadata, EU PIC          ,No Metadata Schema Prescribed
+868,pid_graph:AP268E0503,llama-online,structure, EU PIC        ,Predefined Identifier Structure
+869,pid_graph:AP519416EF,llama-online,governance, EU PIC        ,Membership Governance
+870,pid_graph:AP0B687ACF,llama-online,metadata, GDS ID          ,Common Metadata Schema for Identifier
+871,pid_graph:APA9484A0C,llama-online,structure, GDS ID        ,No Prefix
+872,pid_graph:AP50E21CA9,llama-online,governance, GDS ID        ,Community Governance
+873,pid_graph:APAB49037B,llama-online,metadata, Gene ID          ,Common Metadata Schema for Identifier
+874,pid_graph:APE4178803,llama-online,structure, Gene ID        ,Predefined Identifier Structure
+875,pid_graph:AP66A144D4,llama-online,governance, Gene ID        ,Community Governance
+876,pid_graph:AP3615C14D,llama-online,metadata, Genome ID          ,Common Metadata Schema for Identifier
+877,pid_graph:AP66F05EA4,llama-online,structure, Genome ID        ,Allows Managed Prefix
+878,pid_graph:APAAFDA0B9,llama-online,governance, Genome ID        ,Unknown
+879,pid_graph:APD4D9E9BA,llama-online,metadata, GEO ID          ,Common Metadata Schema for Identifier
+880,pid_graph:AP096A9A38,llama-online,structure, GEO ID        ,No Prefix
+881,pid_graph:AP09794508,llama-online,governance, GEO ID        ,Community Governance
+882,pid_graph:APA32A822C,llama-online,metadata, GeoNames ID          ,Common Metadata Schema for Identifier
+883,pid_graph:AP97BE1CDC,llama-online,structure, GeoNames ID        ,No Prefix
+884,pid_graph:AP54A5C6D9,llama-online,governance, GeoNames ID        ,Community Governance
+885,pid_graph:APB364A3F5,llama-online,metadata, GePRIS          ,No Metadata Schema Prescribed
+886,pid_graph:AP6B11612C,llama-online,structure, GePRIS        ,Predefined Identifier Structure
+887,pid_graph:AP9130C20F,llama-online,governance, GePRIS        ,Closed Governance
+888,pid_graph:AP0E7C5569,llama-online,metadata, GitHub          ,Metadata Schema per Entity
+889,pid_graph:AP3A2BB631,llama-online,structure, GitHub        ,Predefined Identifier Structure
+890,pid_graph:AP16448339,llama-online,governance, GitHub        ,Community Governance
+891,pid_graph:APFEC2AB20,llama-online,metadata, GitLab          ,No Metadata Schema Prescribed
+892,pid_graph:AP7C3BC4A1,llama-online,structure, GitLab        ,Allows User Semantics
+893,pid_graph:APEB99530F,llama-online,governance, GitLab        ,Unknown
+894,pid_graph:APFF42CBF4,llama-online,metadata, GND          ,No Metadata Schema Prescribed
+895,pid_graph:AP3D5255AF,llama-online,structure, GND        ,Predefined Identifier Structure
+896,pid_graph:AP08405ACD,llama-online,governance, GND        ,Community Governance
+897,pid_graph:AP639957B5,llama-online,metadata, GRID          ,Custom/Non-Standard Metadata Schema
+898,pid_graph:AP9842ED8E,llama-online,structure, GRID        ,Predefined Identifier Structure
+899,pid_graph:AP91416C83,llama-online,governance, GRID        ,Closed Governance
+900,pid_graph:AP10EB63C7,llama-online,metadata, HAL article ID          ,Common Metadata Schema for Identifier
+901,pid_graph:AP721B39B7,llama-online,structure, HAL article ID        ,Predefined Identifier Structure
+902,pid_graph:APA72EB8DC,llama-online,governance, HAL article ID        ,Community Governance
+903,pid_graph:APAF472FCE,llama-online,metadata, Handle          ,Common Metadata Schema for Identifier
+904,pid_graph:AP80E66C0C,llama-online,structure, Handle        ,Predefined Identifier Structure
+905,pid_graph:AP2502B294,llama-online,governance, Handle        ,Unknown
+906,pid_graph:APFF1E3840,llama-online,metadata, HomoloGene ID          ,No Metadata Schema Prescribed
+907,pid_graph:AP731990CE,llama-online,structure, HomoloGene ID        ,No Prefix
+908,pid_graph:AP1B3B365B,llama-online,governance, HomoloGene ID        ,Closed Governance
+909,pid_graph:AP7438EC14,llama-online,metadata, ICD          ,No Metadata Schema Prescribed
+910,pid_graph:AP891B0835,llama-online,structure, ICD        ,No Prefix
+911,pid_graph:APB82E8E1E,llama-online,governance, ICD        ,Unknown
+912,pid_graph:APFE3F8635,llama-online,metadata, IdRef ID/SUDOC          ,No Metadata Schema Prescribed
+913,pid_graph:AP0E6BBE7B,llama-online,structure, IdRef ID/SUDOC        ,No Prefix
+914,pid_graph:AP47593380,llama-online,governance, IdRef ID/SUDOC        ,Community Governance
+915,pid_graph:AP43F71E21,llama-online,metadata, IGSN          ,Common Metadata Schema for Identifier
+916,pid_graph:APF441583C,llama-online,structure, IGSN        ,Allows Managed Prefix
+917,pid_graph:AP225F7DB3,llama-online,governance, IGSN        ,Community Governance
+918,pid_graph:AP716327C6,llama-online,metadata, IMDb company ID          ,No Metadata Schema Prescribed
+919,pid_graph:APBB87650B,llama-online,structure, IMDb company ID        ,No Prefix
+920,pid_graph:AP63E96C08,llama-online,governance, IMDb company ID        ,Unknown
+921,pid_graph:AP41E20CAC,llama-online,metadata, IMDb name ID          ,Common Metadata Schema for Identifier
+922,pid_graph:AP82D92354,llama-online,structure, IMDb name ID        ,Predefined Identifier Structure
+923,pid_graph:APC8F38900,llama-online,governance, IMDb name ID        ,Unknown
+924,pid_graph:AP55B9F9D5,llama-online,metadata, IMDb title ID          ,Common Metadata Schema for Identifier
+925,pid_graph:APD792985B,llama-online,structure, IMDb title ID        ,Predefined Identifier Structure
+926,pid_graph:AP182D17E8,llama-online,governance, IMDb title ID        ,Closed Governance
+927,pid_graph:AP8A4D38BD,llama-online,metadata, InChI          ,Custom/Non-Standard Metadata Schema
+928,pid_graph:APDD1A4DA6,llama-online,structure, InChI        ,Predefined Identifier Structure
+929,pid_graph:APDF2B7C20,llama-online,governance, InChI        ,Unknown
+930,pid_graph:AP55D79DFC,llama-online,metadata, InChiKey          ,No Metadata Schema Prescribed
+931,pid_graph:AP739D3CBD,llama-online,structure, InChiKey        ,Predefined Identifier Structure
+932,pid_graph:AP307154DF,llama-online,governance, InChiKey        ,Community Governance
+933,pid_graph:AP9FB2789A,llama-online,metadata, ISLRN          ,Common Metadata Schema for Identifier
+934,pid_graph:AP196E0552,llama-online,structure, ISLRN        ,Predefined Identifier Structure
+935,pid_graph:APA00A0D32,llama-online,governance, ISLRN        ,Community Governance
+936,pid_graph:AP4A3656FE,llama-online,metadata, JuFo-id          ,Common Metadata Schema for Identifier
+937,pid_graph:AP94310BB5,llama-online,structure, JuFo-id        ,Predefined Identifier Structure
+938,pid_graph:AP74DA0A77,llama-online,governance, JuFo-id        ,Unknown
+939,pid_graph:AP80B5BBA2,llama-online,metadata, Korean national author ID          ,No Metadata Schema Prescribed
+940,pid_graph:AP3B338EBC,llama-online,structure, Korean national author ID        ,Predefined Identifier Structure
+941,pid_graph:AP22A343C7,llama-online,governance, Korean national author ID        ,Unknown
+942,pid_graph:AP8919A282,llama-online,metadata, Korean national research ID          ,No Metadata Schema Prescribed
+943,pid_graph:APD3552CD6,llama-online,structure, Korean national research ID        ,Predefined Identifier Structure
+944,pid_graph:APC381232C,llama-online,governance, Korean national research ID        ,Membership Governance
+945,pid_graph:AP7310988B,llama-online,metadata, Korean research funding ID          ,No Metadata Schema Prescribed
+946,pid_graph:APA7FF673C,llama-online,structure, Korean research funding ID        ,Predefined Identifier Structure
+947,pid_graph:AP848EE53F,llama-online,governance, Korean research funding ID        ,Membership Governance
+948,pid_graph:AP1D0841EA,llama-online,metadata, LCCN          ,No Metadata Schema Prescribed
+949,pid_graph:APB4BF458A,llama-online,structure, LCCN        ,No Prefix
+950,pid_graph:APD9860A36,llama-online,governance, LCCN        ,Closed Governance
+951,pid_graph:AP293F474A,llama-online,metadata, Magnet          ,No Metadata Schema Prescribed
+952,pid_graph:AP9155D94E,llama-online,structure, Magnet        ,Unknown
+953,pid_graph:AP97EF32AF,llama-online,governance, Magnet        ,Community Governance
+954,pid_graph:APC5D9FD66,llama-online,metadata, MeSH ID                  ,Common Metadata Schema for Identifier
+955,pid_graph:AP536A3B36,llama-online,structure, MeSH ID                ,No Prefix
+956,pid_graph:APD8221FC5,llama-online,governance, MeSH ID                ,Unknown
+957,pid_graph:APAF6D1B60,llama-online,metadata, MMDB-ID          ,No Metadata Schema Prescribed
+958,pid_graph:AP57F5D1A0,llama-online,structure, MMDB-ID        ,Predefined Identifier Structure
+959,pid_graph:APB828EF87,llama-online,governance, MMDB-ID        ,Community Governance
+960,pid_graph:AP06A9004D,llama-online,metadata, NLM Catalog ID                  ,Common Metadata Schema for Identifier
+961,pid_graph:APE174797C,llama-online,structure, NLM Catalog ID                ,No Prefix
+962,pid_graph:AP8978ED41,llama-online,governance, NLM Catalog ID                ,Community Governance
+963,pid_graph:AP1802A32D,llama-online,metadata, Not Applicable          ,Common Metadata Schema for Identifier
+964,pid_graph:AP78F0FFC7,llama-online,structure, Not Applicable        ,Allows User Semantics
+965,pid_graph:APA04DA7EE,llama-online,governance, Not Applicable        ,Community Governance
+966,pid_graph:AP73B3DD76,llama-online,metadata, Nucleotide GI number          ,No Metadata Schema Prescribed
+967,pid_graph:APC3B7B950,llama-online,structure, Nucleotide GI number        ,Predefined Identifier Structure
+968,pid_graph:AP23F3FDCA,llama-online,governance, Nucleotide GI number        ,Closed Governance
+969,pid_graph:AP17BF6A3E,llama-online,metadata, NZBN          ,Common Metadata Schema for Identifier
+970,pid_graph:AP0A070B23,llama-online,structure, NZBN        ,Predefined Identifier Structure
+971,pid_graph:AP11F42B96,llama-online,governance, NZBN        ,Closed Governance
+972,pid_graph:APC0287C32,llama-online,metadata, OCLC Control Number          ,Common Metadata Schema for Identifier
+973,pid_graph:AP6714E8D3,llama-online,structure, OCLC Control Number        ,Predefined Identifier Structure
+974,pid_graph:AP937CDC35,llama-online,governance, OCLC Control Number        ,Membership Governance
+975,pid_graph:AP8FF70CF0,llama-online,metadata, OMID          ,Common Metadata Schema for Identifier
+976,pid_graph:AP807DE36F,llama-online,structure, OMID        ,Predefined Identifier Structure
+977,pid_graph:AP63D3A128,llama-online,governance, OMID        ,Unknown
+978,pid_graph:APE88A87FA,llama-online,metadata, OpenCitations Corpus          ,Metadata Schema per Entity
+979,pid_graph:APEFB361BF,llama-online,structure, OpenCitations Corpus        ,Predefined Identifier Structure
+980,pid_graph:AP2D94D91D,llama-online,governance, OpenCitations Corpus        ,Community Governance
+981,pid_graph:APA13B9E2E,llama-online,metadata, OpenURL          ,Custom/Non-Standard Metadata Schema
+982,pid_graph:AP782A2822,llama-online,structure, OpenURL        ,No Prefix
+983,pid_graph:AP676BAA67,llama-online,governance, OpenURL        ,Community Governance
+984,pid_graph:AP929EAD7E,llama-online,metadata, ORCID          ,Metadata Schema per Entity
+985,pid_graph:APE9F2BE40,llama-online,structure, ORCID        ,Predefined Identifier Structure
+986,pid_graph:AP1A624C29,llama-online,governance, ORCID        ,Community Governance
+987,pid_graph:AP5B9003B4,llama-online,metadata, PIC          ,Common Metadata Schema for Identifier
+988,pid_graph:AP2A7B7AA5,llama-online,structure, PIC        ,Predefined Identifier Structure
+989,pid_graph:AP0E4802AF,llama-online,governance, PIC        ,Unknown
+990,pid_graph:AP1F989A4F,llama-online,metadata, PIDINST          ,Common Metadata Schema for Identifier
+991,pid_graph:AP98EB73EC,llama-online,structure, PIDINST        ,Predefined Identifier Structure
+992,pid_graph:APB327A007,llama-online,governance, PIDINST        ,Community Governance
+993,pid_graph:AP860E8B59,llama-online,metadata, PMCID          ,Common Metadata Schema for Identifier
+994,pid_graph:AP726955FE,llama-online,structure, PMCID        ,No Prefix
+995,pid_graph:APEEB0D6ED,llama-online,governance, PMCID        ,Unknown
+996,pid_graph:AP4BA11389,llama-online,metadata, PMID          ,No Metadata Schema Prescribed
+997,pid_graph:AP8126B8FC,llama-online,structure, PMID        ,Predefined Identifier Structure
+998,pid_graph:AP6696E213,llama-online,governance, PMID        ,Unknown
+999,pid_graph:AP15136682,llama-online,metadata, PopSet ID          ,Common Metadata Schema for Identifier
+1000,pid_graph:AP37C0E3CA,llama-online,structure, PopSet ID        ,Predefined Identifier Structure
+1001,pid_graph:APF6FD443F,llama-online,governance, PopSet ID        ,Community Governance
+1002,pid_graph:AP9C28FF52,llama-online,metadata, Probe ID	          ,No Metadata Schema Prescribed
+1003,pid_graph:AP70997618,llama-online,structure, Probe ID	        ,Allows User Semantics
+1004,pid_graph:AP0D0F1EBB,llama-online,governance, Probe ID	        ,Unknown
+1005,pid_graph:APE7C73AEE,llama-online,metadata, Protein Cluster ID          ,Common Metadata Schema for Identifier
+1006,pid_graph:APD8A7E7D9,llama-online,structure, Protein Cluster ID        ,Predefined Identifier Structure
+1007,pid_graph:APA115108E,llama-online,governance, Protein Cluster ID        ,Membership Governance
+1008,pid_graph:AP18EB8DDF,llama-online,metadata, Protein GI number                  ,Not found
+1009,pid_graph:AP0CAAE76C,llama-online,structure, Protein GI number                ,No Prefix
+1010,pid_graph:APE176F8F2,llama-online,governance, Protein GI number                ,Unknown
+1011,pid_graph:AP3B7D30A2,llama-online,metadata, PSSM-ID          ,Common Metadata Schema for Identifier
+1012,pid_graph:AP2759A7BA,llama-online,structure, PSSM-ID        ,No Prefix
+1013,pid_graph:AP3332945F,llama-online,governance, PSSM-ID        ,Community Governance
+1014,pid_graph:APBDC13427,llama-online,metadata, PURL          ,Common Metadata Schema for Identifier
+1015,pid_graph:AP0E661050,llama-online,structure, PURL        ,No Prefix
+1016,pid_graph:APE905BF3D,llama-online,governance, PURL        ,Community Governance
+1017,pid_graph:AP8ADE986F,llama-online,metadata, QID          ,Common Metadata Schema for Identifier
+1018,pid_graph:APB4A4197A,llama-online,structure, QID        ,Allows Managed Prefix
+1019,pid_graph:AP2CE0F6CA,llama-online,governance, QID        ,Community Governance
+1020,pid_graph:AP3AFA133D,llama-online,metadata, QID / WDQID          ,Common Metadata Schema for Identifier
+1021,pid_graph:APE94041BD,llama-online,structure, QID / WDQID        ,Allows User Semantics
+1022,pid_graph:AP787A439E,llama-online,governance, QID / WDQID        ,Community Governance
+1023,pid_graph:APC3A01FEF,llama-online,metadata, RAI ID          ,Common Metadata Schema for Identifier
+1024,pid_graph:APA622D3AF,llama-online,structure, RAI ID        ,No Prefix
+1025,pid_graph:APB4AAD71E,llama-online,governance, RAI ID        ,Community Governance
+1026,pid_graph:AP598AF583,llama-online,metadata, RAID          ,Common Metadata Schema for Identifier
+1027,pid_graph:AP61EAAD53,llama-online,structure, RAID        ,Predefined Identifier Structure
+1028,pid_graph:AP8849B784,llama-online,governance, RAID        ,Closed Governance
+1029,pid_graph:AP69672D69,llama-online,metadata, re3data          ,Common Metadata Schema for Identifier
+1030,pid_graph:AP95377133,llama-online,structure, re3data        ,Predefined Identifier Structure
+1031,pid_graph:APED7D81D2,llama-online,governance, re3data        ,Unknown
+1032,pid_graph:AP7BEF25F7,llama-online,metadata, ResearcherID          ,Common Metadata Schema for Identifier
+1033,pid_graph:APC5117D6B,llama-online,structure, ResearcherID        ,Predefined Identifier Structure
+1034,pid_graph:APF158387E,llama-online,governance, ResearcherID        ,Membership Governance
+1035,pid_graph:APAEC1565C,llama-online,metadata, RIN          ,No Metadata Schema Prescribed
+1036,pid_graph:AP9FBEB438,llama-online,structure, RIN        ,No Prefix
+1037,pid_graph:APB33F63BA,llama-online,governance, RIN        ,Unknown
+1038,pid_graph:AP05ECAA7C,llama-online,metadata, Ringgold ID          ,Common Metadata Schema for Identifier
+1039,pid_graph:APB570AA88,llama-online,structure, Ringgold ID        ,No Prefix
+1040,pid_graph:AP303B6A65,llama-online,governance, Ringgold ID        ,Membership Governance
+1041,pid_graph:AP326BDC7A,llama-online,metadata, RoR          ,Common Metadata Schema for Identifier
+1042,pid_graph:AP7C44C272,llama-online,structure, RoR        ,Allows Managed Prefix
+1043,pid_graph:APAEFFBCAA,llama-online,governance, RoR        ,Community Governance
+1044,pid_graph:AP50CD53C2,llama-online,metadata, rs number          ,No Metadata Schema Prescribed
+1045,pid_graph:AP3F56ECB4,llama-online,structure, rs number        ,Allows User Semantics
+1046,pid_graph:AP6ED04673,llama-online,governance, rs number        ,Community Governance
+1047,pid_graph:AP26895946,llama-online,metadata, SBN/ ICCU          ,Metadata Schema per Entity
+1048,pid_graph:AP61BB8D3B,llama-online,structure, SBN/ ICCU        ,Predefined Identifier Structure
+1049,pid_graph:APEEA3FABC,llama-online,governance, SBN/ ICCU        ,Closed Governance
+1050,pid_graph:AP8909655A,llama-online,metadata, ScopusAuthorID          ,Common Metadata Schema for Identifier
+1051,pid_graph:AP6375E039,llama-online,structure, ScopusAuthorID        ,No Prefix
+1052,pid_graph:AP87B5F4C3,llama-online,governance, ScopusAuthorID        ,Membership Governance
+1053,pid_graph:AP17C10C20,llama-online,metadata, SF-edu-ID          ,No Metadata Schema Prescribed
+1054,pid_graph:AP431D16AB,llama-online,structure, SF-edu-ID        ,Predefined Identifier Structure
+1055,pid_graph:APBA169C90,llama-online,governance, SF-edu-ID        ,Membership Governance
+1056,pid_graph:APD5C04E55,llama-online,metadata, SID          ,Common Metadata Schema for Identifier
+1057,pid_graph:AP55D40E39,llama-online,structure, SID        ,Allows User Semantics
+1058,pid_graph:APFE111757,llama-online,governance, SID        ,Community Governance
+1059,pid_graph:APB7924815,llama-online,metadata, SRA ID	          ,Common Metadata Schema for Identifier
+1060,pid_graph:AP026361D7,llama-online,structure, SRA ID	        ,No Prefix
+1061,pid_graph:AP1060083A,llama-online,governance, SRA ID	        ,Unknown
+1062,pid_graph:AP9D4E0270,llama-online,metadata, SWHID          ,Common Metadata Schema for Identifier
+1063,pid_graph:APB621B935,llama-online,structure, SWHID        ,Predefined Identifier Structure
+1064,pid_graph:APADDC70C2,llama-online,governance, SWHID        ,Community Governance
+1065,pid_graph:AP0D49A97F,llama-online,metadata, swMath          ,Common Metadata Schema for Identifier
+1066,pid_graph:APF1A7534C,llama-online,structure, swMath        ,Predefined Identifier Structure
+1067,pid_graph:AP87A8EE39,llama-online,governance, swMath        ,Unknown
+1068,pid_graph:APCBC32480,llama-online,metadata, TaxID          ,No Metadata Schema Prescribed
+1069,pid_graph:AP9615D794,llama-online,structure, TaxID        ,Predefined Identifier Structure
+1070,pid_graph:AP47838CB5,llama-online,governance, TaxID        ,Unknown
+1071,pid_graph:APD304387E,llama-online,metadata, Toolkit ID          ,No Metadata Schema Prescribed
+1072,pid_graph:APD5E899A7,llama-online,structure, Toolkit ID        ,Predefined Identifier Structure
+1073,pid_graph:AP330E8E1C,llama-online,governance, Toolkit ID        ,Community Governance
+1074,pid_graph:APF06772D5,llama-online,metadata, UID          ,Common Metadata Schema for Identifier
+1075,pid_graph:APB8DEAED5,llama-online,structure, UID        ,Predefined Identifier Structure
+1076,pid_graph:AP48CE265F,llama-online,governance, UID        ,Community Governance
+1077,pid_graph:AP5EFDC9C2,llama-online,metadata, ULAN ID          ,No Metadata Schema Prescribed
+1078,pid_graph:AP7F2F1CF6,llama-online,structure, ULAN ID        ,No Prefix
+1079,pid_graph:AP30895518,llama-online,governance, ULAN ID        ,Closed Governance
+1080,pid_graph:APA7151CEC,llama-online,metadata, UPC          ,No Metadata Schema Prescribed
+1081,pid_graph:APCE348A49,llama-online,structure, UPC        ,No Prefix
+1082,pid_graph:AP609E7980,llama-online,governance, UPC        ,Unknown
+1083,pid_graph:APB5F4CE9A,llama-online,metadata, URI          ,Common Metadata Schema for Identifier
+1084,pid_graph:AP5527CE9E,llama-online,structure, URI        ,Predefined Identifier Structure
+1085,pid_graph:AP28181B71,llama-online,governance, URI        ,Community Governance
+1086,pid_graph:APC89D905B,llama-online,metadata, URL          ,Not found
+1087,pid_graph:AP9B37AC7E,llama-online,structure, URL        ,Allows User Semantics
+1088,pid_graph:AP9C01BB3B,llama-online,governance, URL        ,Unknown
+1089,pid_graph:AP405C0A28,llama-online,metadata, URN          ,No Metadata Schema Prescribed
+1090,pid_graph:APC01E3E64,llama-online,structure, URN        ,Allows User Semantics
+1091,pid_graph:AP4A43C5E1,llama-online,governance, URN        ,Community Governance
+1092,pid_graph:AP839F16BF,llama-online,metadata, URN: ISNI          ,Common Metadata Schema for Identifier
+1093,pid_graph:APF302A708,llama-online,structure, URN: ISNI        ,No Prefix
+1094,pid_graph:APC9577F36,llama-online,governance, URN: ISNI        ,Membership Governance
+1095,pid_graph:AP919747A9,llama-online,metadata, URN:ISAN          ,Common Metadata Schema for Identifier
+1096,pid_graph:AP4730F76B,llama-online,structure, URN:ISAN        ,Predefined Identifier Structure
+1097,pid_graph:APB5FAD20C,llama-online,governance, URN:ISAN        ,Closed Governance
+1098,pid_graph:AP75F188A9,llama-online,metadata, URN:ISBN          ,Common Metadata Schema for Identifier
+1099,pid_graph:AP2ADE8F76,llama-online,structure, URN:ISBN        ,No Prefix
+1100,pid_graph:APC836EE5A,llama-online,governance, URN:ISBN        ,Membership Governance
+1101,pid_graph:APBE99E28C,llama-online,metadata, URN:ISMN          ,No Metadata Schema Prescribed
+1102,pid_graph:APEB3CBA28,llama-online,structure, URN:ISMN        ,Predefined Identifier Structure
+1103,pid_graph:APA8D3FB9B,llama-online,governance, URN:ISMN        ,Closed Governance
+1104,pid_graph:AP9503BF20,llama-online,metadata, URN:ISRC          ,Common Metadata Schema for Identifier
+1105,pid_graph:AP8C322A3C,llama-online,structure, URN:ISRC        ,Predefined Identifier Structure
+1106,pid_graph:AP83DA5A63,llama-online,governance, URN:ISRC        ,Unknown
+1107,pid_graph:AP35B7E552,llama-online,metadata, URN:ISSN          ,Common Metadata Schema for Identifier
+1108,pid_graph:APF6CCBDCB,llama-online,structure, URN:ISSN        ,Predefined Identifier Structure
+1109,pid_graph:AP42AD424B,llama-online,governance, URN:ISSN        ,Unknown
+1110,pid_graph:AP6E370A61,llama-online,metadata, URN:ISTC          ,Common Metadata Schema for Identifier
+1111,pid_graph:AP97009070,llama-online,structure, URN:ISTC        ,Predefined Identifier Structure
+1112,pid_graph:AP4D1BA927,llama-online,governance, URN:ISTC        ,Membership Governance
+1113,pid_graph:APD8D84B5E,llama-online,metadata, URN:LSID          ,No Metadata Schema Prescribed
+1114,pid_graph:APF48CFB26,llama-online,structure, URN:LSID        ,Allows User Semantics
+1115,pid_graph:APF0D83A5C,llama-online,governance, URN:LSID        ,Unknown
+1116,pid_graph:AP6DF35D62,llama-online,metadata, URN:NBN          ,Common Metadata Schema for Identifier
+1117,pid_graph:AP59F68F77,llama-online,structure, URN:NBN        ,Allows Managed Prefix
+1118,pid_graph:APC6A3D9FF,llama-online,governance, URN:NBN        ,Closed Governance
+1119,pid_graph:AP41ECD1BD,llama-online,metadata, URN:NBN:AT          ,Common Metadata Schema for Identifier
+1120,pid_graph:AP8008D7FA,llama-online,structure, URN:NBN:AT        ,Predefined Identifier Structure
+1121,pid_graph:AP1A53FF1A,llama-online,governance, URN:NBN:AT        ,Closed Governance
+1122,pid_graph:APB2095E9F,llama-online,metadata, URN:NBN:CH          ,Common Metadata Schema for Identifier
+1123,pid_graph:APA06B4683,llama-online,structure, URN:NBN:CH        ,Predefined Identifier Structure
+1124,pid_graph:APDE7297E5,llama-online,governance, URN:NBN:CH        ,Closed Governance
+1125,pid_graph:APACE55868,llama-online,metadata, URN:NBN:CZ          ,Common Metadata Schema for Identifier
+1126,pid_graph:AP76F8F7C7,llama-online,structure, URN:NBN:CZ        ,Predefined Identifier Structure
+1127,pid_graph:AP522D5AA9,llama-online,governance, URN:NBN:CZ        ,Closed Governance
+1128,pid_graph:APF6A6A869,llama-online,metadata, URN:NBN:DE          ,Common Metadata Schema for Identifier
+1129,pid_graph:APE769E314,llama-online,structure, URN:NBN:DE        ,Predefined Identifier Structure
+1130,pid_graph:AP719BB30A,llama-online,governance, URN:NBN:DE        ,Closed Governance
+1131,pid_graph:AP331EBA04,llama-online,metadata, URN:NBN:FI          ,Common Metadata Schema for Identifier
+1132,pid_graph:APCFF730EE,llama-online,structure, URN:NBN:FI        ,Predefined Identifier Structure
+1133,pid_graph:APBEA6E256,llama-online,governance, URN:NBN:FI        ,Membership Governance
+1134,pid_graph:AP7176D70F,llama-online,metadata, URN:NBN:HR          ,No Metadata Schema Prescribed
+1135,pid_graph:APDE8F9ACB,llama-online,structure, URN:NBN:HR        ,Predefined Identifier Structure
+1136,pid_graph:APE41A8923,llama-online,governance, URN:NBN:HR        ,Closed Governance
+1137,pid_graph:AP44027BBF,llama-online,metadata, URN:NBN:HU          ,Common Metadata Schema for Identifier
+1138,pid_graph:AP4572F30F,llama-online,structure, URN:NBN:HU        ,Predefined Identifier Structure
+1139,pid_graph:AP721F1A83,llama-online,governance, URN:NBN:HU        ,Membership Governance
+1140,pid_graph:APC7F22B9F,llama-online,metadata, URN:NBN:IT          ,No Metadata Schema Prescribed
+1141,pid_graph:APCBC1B049,llama-online,structure, URN:NBN:IT        ,Predefined Identifier Structure
+1142,pid_graph:AP4CB96B72,llama-online,governance, URN:NBN:IT        ,Membership Governance
+1143,pid_graph:APDDA9A403,llama-online,metadata, URN:NBN:NL          ,Common Metadata Schema for Identifier
+1144,pid_graph:AP4056BB9B,llama-online,structure, URN:NBN:NL        ,Predefined Identifier Structure
+1145,pid_graph:APA21A70DB,llama-online,governance, URN:NBN:NL        ,Closed Governance
+1146,pid_graph:AP36D0A0A2,llama-online,metadata, URN:NBN:NO          ,Custom/Non-Standard Metadata Schema
+1147,pid_graph:AP1F5852CC,llama-online,structure, URN:NBN:NO        ,Predefined Identifier Structure
+1148,pid_graph:AP8EE2113B,llama-online,governance, URN:NBN:NO        ,Closed Governance
+1149,pid_graph:AP36FB0A22,llama-online,metadata, URN:NBN:SE          ,No Metadata Schema Prescribed
+1150,pid_graph:APB7FC8248,llama-online,structure, URN:NBN:SE        ,Predefined Identifier Structure
+1151,pid_graph:APDBEDF92D,llama-online,governance, URN:NBN:SE        ,Closed Governance
+1152,pid_graph:AP053C1146,llama-online,metadata, URN:NBN:SI          ,Common Metadata Schema for Identifier
+1153,pid_graph:AP5F0FC813,llama-online,structure, URN:NBN:SI        ,Predefined Identifier Structure
+1154,pid_graph:APD72B372A,llama-online,governance, URN:NBN:SI        ,Closed Governance
+1155,pid_graph:APCDF040D7,llama-online,metadata, URN:NBN:SK          ,No Metadata Schema Prescribed
+1156,pid_graph:APABB5875A,llama-online,structure, URN:NBN:SK        ,Predefined Identifier Structure
+1157,pid_graph:APB4F13581,llama-online,governance, URN:NBN:SK        ,Closed Governance
+1158,pid_graph:AP58783383,llama-online,metadata, URN:OID          ,No Metadata Schema Prescribed
+1159,pid_graph:AP3EDE10DA,llama-online,structure, URN:OID        ,Predefined Identifier Structure
+1160,pid_graph:AP31C7C9A1,llama-online,governance, URN:OID        ,Unknown
+1161,pid_graph:APA986EE4C,llama-online,metadata, VAT number          ,Common Metadata Schema for Identifier
+1162,pid_graph:AP4B010E13,llama-online,structure, VAT number        ,Predefined Identifier Structure
+1163,pid_graph:APAF186B7F,llama-online,governance, VAT number        ,Unknown
+1164,pid_graph:APE534415E,llama-online,metadata, VIAF          ,Custom/Non-Standard Metadata Schema
+1165,pid_graph:APD431175D,llama-online,structure, VIAF        ,Predefined Identifier Structure
+1166,pid_graph:AP0618AADB,llama-online,governance, VIAF        ,Membership Governance
+1167,pid_graph:APBC205000,llama-online,metadata, Virta-id          ,Common Metadata Schema for Identifier
+1168,pid_graph:AP0768B895,llama-online,structure, Virta-id        ,Allows User Semantics
+1169,pid_graph:AP2A12D44D,llama-online,governance, Virta-id        ,Unknown
+1170,pid_graph:APDA9B2BF0,llama-online,metadata, W3ID          ,Common Metadata Schema for Identifier
+1171,pid_graph:APC36FE881,llama-online,structure, W3ID        ,Predefined Identifier Structure
+1172,pid_graph:AP3C336A25,llama-online,governance, W3ID        ,Community Governance
+1173,pid_graph:APA9AF5C07,llama-online,metadata, Wikipedia          ,Common Metadata Schema for Identifier
+1174,pid_graph:APD3A26E57,llama-online,structure, Wikipedia        ,No Prefix
+1175,pid_graph:AP7EDAF255,llama-online,governance, Wikipedia        ,Membership Governance
+1176,pid_graph:AP0E090818,llama-online,metadata, WOS          ,Common Metadata Schema for Identifier
+1177,pid_graph:AP6B4D6F20,llama-online,structure, WOS        ,Allows Managed Prefix
+1178,pid_graph:APF804ABAA,llama-online,governance, WOS        ,Unknown
+1179,pid_graph:AP1F09D421,llama-online,metadata, XRI          ,Custom/Non-Standard Metadata Schema
+1180,pid_graph:APB3B9415B,llama-online,structure, XRI        ,Predefined Identifier Structure
+1181,pid_graph:APF62101A9,llama-online,governance, XRI        ,Unknown
+1182,pid_graph:APD2B5807A,llama-online,metadata, Z39.88-2004          ,No Metadata Schema Prescribed
+1183,pid_graph:AP8AC7F009,llama-online,structure, Z39.88-2004        ,No Prefix
+1184,pid_graph:APCF11C735,llama-online,governance, Z39.88-2004        ,Community Governance
+1185,pid_graph:APDB82E23B,llama-online,metadata, zbMath          ,Common Metadata Schema for Identifier
+1186,pid_graph:AP4A7794ED,llama-online,structure, zbMath        ,No Prefix
+1187,pid_graph:AP69D33426,llama-online,governance, zbMath        ,Closed Governance

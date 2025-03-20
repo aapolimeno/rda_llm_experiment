@@ -1,0 +1,397 @@
+,property,pid,llama-online-response,mistrall-small-response,sonar-pro-response,agreement
+0,governance, AID        ,Unknown,Unknown,Unknown,3: Unknown
+1,governance, ARK        ,Community Governance,Community Governance,Community Governance,3
+2,governance, BibCode        ,Community Governance,Community Governance,Closed Governance,2
+3,governance, Bitbucket        ,Unknown,Community Governance,Closed Governance,1
+4,governance, Book ID        ,Community Governance,Unknown,Unknown,2
+5,governance, BusinessID        ,Unknown,Unknown,Unknown,3: Unknown
+6,governance, CID        ,Community Governance,Unknown,Unknown,2
+7,governance, COL        ,Membership Governance,Unknown,Unknown,2
+8,governance, CONFIDENT        ,Membership Governance,Community Governance,Unknown,1
+9,governance, CURIE        ,Community Governance,Community Governance,Unknown,2
+10,governance, CrossRef Funders        ,Unknown,Community Governance,Membership Governance,1
+11,governance, CrossRef Grant        ,Membership Governance,Community Governance,Membership Governance,2
+12,governance, DAI        ,Unknown,Unknown,Unknown,3: Unknown
+13,governance, DCO-ID        ,Closed Governance,Community Governance,Unknown,1
+14,governance, DOI        ,Closed Governance,Community Governance,Membership Governance,1
+15,governance, DOI: Crossref        ,Membership Governance,Membership Governance,Membership Governance,3
+16,governance, DOI: DataCIte        ,Community Governance,Community Governance,Membership Governance,2
+17,governance, EAN13        ,Unknown,Community Governance,Closed Governance,1
+18,governance, EIDR        ,Membership Governance,Not found,Membership Governance,2
+19,governance, EU PIC        ,Membership Governance,Community Governance,Closed Governance,1
+20,governance, GDS ID        ,Community Governance,Unknown,Unknown,2
+21,governance, GEO ID        ,Community Governance,Unknown,Unknown,2
+22,governance, GND        ,Community Governance,Community Governance,Membership Governance,2
+23,governance, GRID        ,Closed Governance,Community Governance,Closed Governance,2
+24,governance, GePRIS        ,Closed Governance,Community Governance,Closed Governance,2
+25,governance, Gene ID        ,Community Governance,Unknown,Unknown,2
+26,governance, Genome ID        ,Unknown,Community Governance,Unknown,2
+27,governance, GeoNames ID        ,Community Governance,Community Governance,Community Governance,3
+28,governance, GitHub        ,Community Governance,Unknown,Closed Governance,1
+29,governance, GitLab        ,Unknown,Not found,Closed Governance,1
+30,governance, HAL article ID        ,Community Governance,Community Governance,Community Governance,3
+31,governance, Handle        ,Unknown,Closed Governance,Membership Governance,1
+32,governance, HomoloGene ID        ,Closed Governance,Unknown,Closed Governance,2
+33,governance, ICD        ,Unknown,Unknown,Unknown,3: Unknown
+34,governance, IGSN        ,Community Governance,Community Governance,Community Governance,3
+35,governance, IMDb company ID        ,Unknown,Unknown,Closed Governance,2
+36,governance, IMDb name ID        ,Unknown,Community Governance,Closed Governance,1
+37,governance, IMDb title ID        ,Closed Governance,Community Governance,Closed Governance,2
+38,governance, ISLRN        ,Community Governance,Community Governance,Community Governance,3
+39,governance, IdRef ID/SUDOC        ,Community Governance,Community Governance,Closed Governance,2
+40,governance, InChI        ,Unknown,Unknown,Community Governance,2
+41,governance, InChiKey        ,Community Governance,Community Governance,Membership Governance,2
+42,governance, JuFo-id        ,Unknown,Community Governance,Membership Governance,1
+43,governance, Korean national author ID        ,Unknown,Unknown,Unknown,3: Unknown
+44,governance, Korean national research ID        ,Membership Governance,Not found,Not found,2
+45,governance, Korean research funding ID        ,Membership Governance,Community Governance,Unknown,1
+46,governance, LCCN        ,Closed Governance,Not found,Closed Governance,2
+47,governance, MMDB-ID        ,Community Governance,Community Governance,Closed Governance,2
+48,governance, Magnet        ,Community Governance,Unknown,Unknown,2
+49,governance, MeSH ID                ,Unknown,Unknown,Closed Governance,2
+50,governance, NLM Catalog ID                ,Community Governance,Unknown,Closed Governance,1
+51,governance, NZBN        ,Closed Governance,Community Governance,Closed Governance,2
+52,governance, Not Applicable        ,Community Governance,Community Governance,Not found,2
+53,governance, Nucleotide GI number        ,Closed Governance,Community Governance,Closed Governance,2
+54,governance, OCLC Control Number        ,Membership Governance,Community Governance,Membership Governance,2
+55,governance, OMID        ,Unknown,Unknown,Closed Governance,2
+56,governance, ORCID        ,Community Governance,Community Governance,Membership Governance,2
+57,governance, OpenCitations Corpus        ,Community Governance,Community Governance,Community Governance,3
+58,governance, OpenURL        ,Community Governance,Unknown,Unknown,2
+59,governance, PIC        ,Unknown,Unknown,Membership Governance,2
+60,governance, PIDINST        ,Community Governance,Unknown,Community Governance,2
+61,governance, PMCID        ,Unknown,Community Governance,Closed Governance,1
+62,governance, PMID        ,Unknown,Unknown,Closed Governance,2
+63,governance, PSSM-ID        ,Community Governance,Unknown,Unknown,2
+64,governance, PURL        ,Community Governance,Community Governance,Community Governance,3
+65,governance, PopSet ID        ,Community Governance,Community Governance,Unknown,2
+66,governance, Probe ID	        ,Unknown,Community Governance,Unknown,2
+67,governance, Protein Cluster ID        ,Membership Governance,Unknown,Closed Governance,1
+68,governance, Protein GI number                ,Unknown,Community Governance,Closed Governance,1
+69,governance, QID        ,Community Governance,Unknown,Community Governance,2
+70,governance, QID / WDQID        ,Community Governance,Community Governance,Community Governance,3
+71,governance, RAI ID        ,Community Governance,Unknown,Unknown,2
+72,governance, RAID        ,Closed Governance,Unknown,Closed Governance,2
+73,governance, RIN        ,Unknown,Not found,Unknown,2
+74,governance, ResearcherID        ,Membership Governance,Community Governance,Closed Governance,1
+75,governance, Ringgold ID        ,Membership Governance,Community Governance,Closed Governance,1
+76,governance, RoR        ,Community Governance,Unknown,Community Governance,2
+77,governance, SBN/ ICCU        ,Closed Governance,Community Governance,Closed Governance,2
+78,governance, SF-edu-ID        ,Membership Governance,Unknown,Unknown,2
+79,governance, SID        ,Community Governance,Not found,Unknown,1
+80,governance, SRA ID	        ,Unknown,Community Governance,Closed Governance,1
+81,governance, SWHID        ,Community Governance,Community Governance,Community Governance,3
+82,governance, ScopusAuthorID        ,Membership Governance,Community Governance,Closed Governance,1
+83,governance, TaxID        ,Unknown,Not found,Unknown,2
+84,governance, Toolkit ID        ,Community Governance,Unknown,Unknown,2
+85,governance, UID        ,Community Governance,Unknown,Unknown,2
+86,governance, ULAN ID        ,Closed Governance,Community Governance,Closed Governance,2
+87,governance, UPC        ,Unknown,Unknown,Closed Governance,2
+88,governance, URI        ,Community Governance,Community Governance,Unknown,2
+89,governance, URL        ,Unknown,Community Governance,Closed Governance,1
+90,governance, URN        ,Community Governance,Unknown,Unknown,2
+91,governance, URN: ISNI        ,Membership Governance,Community Governance,Membership Governance,2
+92,governance, URN:ISAN        ,Closed Governance,Community Governance,Closed Governance,2
+93,governance, URN:ISBN        ,Membership Governance,Membership Governance,Membership Governance,3
+94,governance, URN:ISMN        ,Closed Governance,Community Governance,Membership Governance,1
+95,governance, URN:ISRC        ,Unknown,Community Governance,Membership Governance,1
+96,governance, URN:ISSN        ,Unknown,Community Governance,Membership Governance,1
+97,governance, URN:ISTC        ,Membership Governance,Not found,Membership Governance,2
+98,governance, URN:LSID        ,Unknown,Community Governance,Unknown,2
+99,governance, URN:NBN        ,Closed Governance,Membership Governance,Community Governance,1
+100,governance, URN:NBN:AT        ,Closed Governance,Community Governance,Closed Governance,2
+101,governance, URN:NBN:CH        ,Closed Governance,Closed Governance,Community Governance,2
+102,governance, URN:NBN:CZ        ,Closed Governance,Not found,Community Governance,1
+103,governance, URN:NBN:DE        ,Closed Governance,Closed Governance,Closed Governance,3
+104,governance, URN:NBN:FI        ,Membership Governance,Community Governance,Closed Governance,1
+105,governance, URN:NBN:HR        ,Closed Governance,Closed Governance,Closed Governance,3
+106,governance, URN:NBN:HU        ,Membership Governance,Closed Governance,Closed Governance,2
+107,governance, URN:NBN:IT        ,Membership Governance,Community Governance,Closed Governance,1
+108,governance, URN:NBN:NL        ,Closed Governance,Closed Governance,Closed Governance,3
+109,governance, URN:NBN:NO        ,Closed Governance,Not found,Closed Governance,2
+110,governance, URN:NBN:SE        ,Closed Governance,Community Governance,Community Governance,2
+111,governance, URN:NBN:SI        ,Closed Governance,Community Governance,Community Governance,2
+112,governance, URN:NBN:SK        ,Closed Governance,Community Governance,Community Governance,2
+113,governance, URN:OID        ,Unknown,Not found,Closed Governance,1
+114,governance, VAT number        ,Unknown,Unknown,Closed Governance,2
+115,governance, VIAF        ,Membership Governance,Not found,Membership Governance,2
+116,governance, Virta-id        ,Unknown,Unknown,Unknown,3: Unknown
+117,governance, W3ID        ,Community Governance,Community Governance,Community Governance,3
+118,governance, WOS        ,Unknown,Community Governance,Closed Governance,1
+119,governance, Wikipedia        ,Membership Governance,Community Governance,Community Governance,2
+120,governance, XRI        ,Unknown,Unknown,Unknown,3: Unknown
+121,governance, Z39.88-2004        ,Community Governance,Unknown,Membership Governance,1
+122,governance, arXiv        ,Membership Governance,Community Governance,Membership Governance,2
+123,governance, dPID        ,Community Governance,Unknown,Unknown,2
+124,governance, dbGaP ID        ,Closed Governance,Community Governance,Closed Governance,2
+125,governance, dbVar ID        ,Community Governance,Community Governance,Unknown,2
+126,governance, eISSN        ,Membership Governance,Community Governance,Not found,1
+127,governance, ePIC        ,Community Governance,Community Governance,Community Governance,3
+128,governance, re3data        ,Unknown,Not found,Membership Governance,1
+129,governance, rs number        ,Community Governance,Unknown,Unknown,2
+130,governance, swMath        ,Unknown,Community Governance,Community Governance,2
+131,governance, zbMath        ,Closed Governance,Community Governance,Membership Governance,1
+132,metadata, AID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Unknown,2
+133,metadata, ARK          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,No Metadata Schema Prescribed,1
+134,metadata, BibCode          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+135,metadata, Bitbucket          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,2
+136,metadata, Book ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+137,metadata, BusinessID          ,No Metadata Schema Prescribed,Unknown,Unknown,2
+138,metadata, CID          ,Not found,No Metadata Schema Prescribed,Unknown,1
+139,metadata, COL          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Unknown,1
+140,metadata, CONFIDENT          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+141,metadata, CURIE          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,1
+142,metadata, CrossRef Funders          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+143,metadata, CrossRef Grant          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+144,metadata, DAI          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+145,metadata, DCO-ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Unknown,1
+146,metadata, DOI          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+147,metadata, DOI: Crossref          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+148,metadata, DOI: DataCIte          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+149,metadata, EAN13          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+150,metadata, EIDR          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+151,metadata, EU PIC          ,No Metadata Schema Prescribed,Not found,Common Metadata Schema for Identifier,1
+152,metadata, GDS ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Unknown,1
+153,metadata, GEO ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+154,metadata, GND          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+155,metadata, GRID          ,Custom/Non-Standard Metadata Schema,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+156,metadata, GePRIS          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Unknown,1
+157,metadata, Gene ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+158,metadata, Genome ID          ,Common Metadata Schema for Identifier,Not found,Common Metadata Schema for Identifier,2
+159,metadata, GeoNames ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+160,metadata, GitHub          ,Metadata Schema per Entity,No Metadata Schema Prescribed,No Metadata Schema Prescribed,2
+161,metadata, GitLab          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+162,metadata, HAL article ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+163,metadata, Handle          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,No Metadata Schema Prescribed,2
+164,metadata, HomoloGene ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+165,metadata, ICD          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+166,metadata, IGSN          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+167,metadata, IMDb company ID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+168,metadata, IMDb name ID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+169,metadata, IMDb title ID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+170,metadata, ISLRN          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+171,metadata, IdRef ID/SUDOC          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+172,metadata, InChI          ,Custom/Non-Standard Metadata Schema,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+173,metadata, InChiKey          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+174,metadata, JuFo-id          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Unknown,1
+175,metadata, Korean national author ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Metadata Schema per Entity,2
+176,metadata, Korean national research ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+177,metadata, Korean research funding ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+178,metadata, LCCN          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+179,metadata, MMDB-ID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Unknown,2
+180,metadata, Magnet          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Unknown,2
+181,metadata, MeSH ID                  ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Not found,1
+182,metadata, NLM Catalog ID                  ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+183,metadata, NZBN          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+184,metadata, Not Applicable          ,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,3
+185,metadata, Nucleotide GI number          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+186,metadata, OCLC Control Number          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+187,metadata, OMID          ,Common Metadata Schema for Identifier,Not found,Unknown,1
+188,metadata, ORCID          ,Metadata Schema per Entity,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+189,metadata, OpenCitations Corpus          ,Metadata Schema per Entity,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+190,metadata, OpenURL          ,Custom/Non-Standard Metadata Schema,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,1
+191,metadata, PIC          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Unknown,1
+192,metadata, PIDINST          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+193,metadata, PMCID          ,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,3
+194,metadata, PMID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+195,metadata, PSSM-ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+196,metadata, PURL          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,No Metadata Schema Prescribed,2
+197,metadata, PopSet ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Unknown,1
+198,metadata, Probe ID	          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Unknown,2
+199,metadata, Protein Cluster ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+200,metadata, Protein GI number                  ,Not found,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+201,metadata, QID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Unknown,1
+202,metadata, QID / WDQID          ,Common Metadata Schema for Identifier,Not found,Common Metadata Schema for Identifier,2
+203,metadata, RAI ID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Unknown,1
+204,metadata, RAID          ,Common Metadata Schema for Identifier,Not found,Common Metadata Schema for Identifier,2
+205,metadata, RIN          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+206,metadata, ResearcherID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+207,metadata, Ringgold ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+208,metadata, RoR          ,Common Metadata Schema for Identifier,Unknown,Common Metadata Schema for Identifier,2
+209,metadata, SBN/ ICCU          ,Metadata Schema per Entity,Metadata Schema per Entity,Custom/Non-Standard Metadata Schema,2
+210,metadata, SF-edu-ID          ,No Metadata Schema Prescribed,Unknown,Unknown,2
+211,metadata, SID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Unknown,1
+212,metadata, SRA ID	          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+213,metadata, SWHID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,No Metadata Schema Prescribed,1
+214,metadata, ScopusAuthorID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+215,metadata, TaxID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+216,metadata, Toolkit ID          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,2
+217,metadata, UID          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,No Metadata Schema Prescribed,2
+218,metadata, ULAN ID          ,No Metadata Schema Prescribed,Not found,Common Metadata Schema for Identifier,1
+219,metadata, UPC          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+220,metadata, URI          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+221,metadata, URL          ,Not found,No Metadata Schema Prescribed,No Metadata Schema Prescribed,2
+222,metadata, URN          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+223,metadata, URN: ISNI          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+224,metadata, URN:ISAN          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+225,metadata, URN:ISBN          ,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,3
+226,metadata, URN:ISMN          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+227,metadata, URN:ISRC          ,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,3
+228,metadata, URN:ISSN          ,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,Common Metadata Schema for Identifier,3
+229,metadata, URN:ISTC          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+230,metadata, URN:LSID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+231,metadata, URN:NBN          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+232,metadata, URN:NBN:AT          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+233,metadata, URN:NBN:CH          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+234,metadata, URN:NBN:CZ          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+235,metadata, URN:NBN:DE          ,Common Metadata Schema for Identifier,Not found,Common Metadata Schema for Identifier,2
+236,metadata, URN:NBN:FI          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+237,metadata, URN:NBN:HR          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+238,metadata, URN:NBN:HU          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+239,metadata, URN:NBN:IT          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+240,metadata, URN:NBN:NL          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+241,metadata, URN:NBN:NO          ,Custom/Non-Standard Metadata Schema,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+242,metadata, URN:NBN:SE          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+243,metadata, URN:NBN:SI          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+244,metadata, URN:NBN:SK          ,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,Custom/Non-Standard Metadata Schema,1
+245,metadata, URN:OID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Not found,1
+246,metadata, VAT number          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+247,metadata, VIAF          ,Custom/Non-Standard Metadata Schema,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+248,metadata, Virta-id          ,Common Metadata Schema for Identifier,Unknown,Common Metadata Schema for Identifier,2
+249,metadata, W3ID          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,No Metadata Schema Prescribed,1
+250,metadata, WOS          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Unknown,1
+251,metadata, Wikipedia          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,1
+252,metadata, XRI          ,Custom/Non-Standard Metadata Schema,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,2
+253,metadata, Z39.88-2004          ,No Metadata Schema Prescribed,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+254,metadata, arXiv          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+255,metadata, dPID          ,Common Metadata Schema for Identifier,Unknown,Unknown,2
+256,metadata, dbGaP ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+257,metadata, dbVar ID          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+258,metadata, eISSN          ,Common Metadata Schema for Identifier,Not found,Common Metadata Schema for Identifier,2
+259,metadata, ePIC          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+260,metadata, re3data          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Common Metadata Schema for Identifier,2
+261,metadata, rs number          ,No Metadata Schema Prescribed,Metadata Schema per Entity,Common Metadata Schema for Identifier,1
+262,metadata, swMath          ,Common Metadata Schema for Identifier,No Metadata Schema Prescribed,Custom/Non-Standard Metadata Schema,1
+263,metadata, zbMath          ,Common Metadata Schema for Identifier,Metadata Schema per Entity,Common Metadata Schema for Identifier,2
+264,structure, AID        ,No Prefix,Unknown,Unknown,2
+265,structure, ARK        ,Allows Managed Prefix,Allows Managed Prefix,Allows Managed Prefix,3
+266,structure, BibCode        ,Predefined Identifier Structure,Allows User Semantics,Predefined Identifier Structure,2
+267,structure, Bitbucket        ,No Prefix,Predefined Identifier Structure,Unknown,1
+268,structure, Book ID        ,Predefined Identifier Structure,Not found,Unknown,1
+269,structure, BusinessID        ,No Prefix,Not found,Unknown,1
+270,structure, CID        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+271,structure, COL        ,Predefined Identifier Structure,Unknown,Unknown,2
+272,structure, CONFIDENT        ,Allows User Semantics,Predefined Identifier Structure,Unknown,1
+273,structure, CURIE        ,Allows Managed Prefix,Allows Managed Prefix,Allows User Semantics,2
+274,structure, CrossRef Funders        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+275,structure, CrossRef Grant        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+276,structure, DAI        ,Allows Managed Prefix,Unknown,Unknown,2
+277,structure, DCO-ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+278,structure, DOI        ,Allows Managed Prefix,Allows Managed Prefix,Allows Managed Prefix,3
+279,structure, DOI: Crossref        ,Allows Managed Prefix,Predefined Identifier Structure,Allows Managed Prefix,2
+280,structure, DOI: DataCIte        ,Allows Managed Prefix,Predefined Identifier Structure,Allows Managed Prefix,2
+281,structure, EAN13        ,Allows Managed Prefix,Predefined Identifier Structure,Predefined Identifier Structure,2
+282,structure, EIDR        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+283,structure, EU PIC        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+284,structure, GDS ID        ,No Prefix,Allows Managed Prefix,Unknown,1
+285,structure, GEO ID        ,No Prefix,Predefined Identifier Structure,Unknown,1
+286,structure, GND        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+287,structure, GRID        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+288,structure, GePRIS        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+289,structure, Gene ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+290,structure, Genome ID        ,Allows Managed Prefix,Not found,Unknown,1
+291,structure, GeoNames ID        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+292,structure, GitHub        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+293,structure, GitLab        ,Allows User Semantics,Not found,Unknown,1
+294,structure, HAL article ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+295,structure, Handle        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+296,structure, HomoloGene ID        ,No Prefix,Allows User Semantics,Predefined Identifier Structure,1
+297,structure, ICD        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+298,structure, IGSN        ,Allows Managed Prefix,Allows Managed Prefix,Allows Managed Prefix,3
+299,structure, IMDb company ID        ,No Prefix,Allows User Semantics,Predefined Identifier Structure,1
+300,structure, IMDb name ID        ,Predefined Identifier Structure,Allows User Semantics,Predefined Identifier Structure,2
+301,structure, IMDb title ID        ,Predefined Identifier Structure,Not found,Predefined Identifier Structure,2
+302,structure, ISLRN        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+303,structure, IdRef ID/SUDOC        ,No Prefix,Allows User Semantics,Unknown,1
+304,structure, InChI        ,Predefined Identifier Structure,Predefined Identifier Structure,Predefined Identifier Structure,3
+305,structure, InChiKey        ,Predefined Identifier Structure,Not found,Predefined Identifier Structure,2
+306,structure, JuFo-id        ,Predefined Identifier Structure,Not found,Allows User Semantics,1
+307,structure, Korean national author ID        ,Predefined Identifier Structure,Predefined Identifier Structure,Unknown,2
+308,structure, Korean national research ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+309,structure, Korean research funding ID        ,Predefined Identifier Structure,Predefined Identifier Structure,Allows Managed Prefix,2
+310,structure, LCCN        ,No Prefix,Not found,Predefined Identifier Structure,1
+311,structure, MMDB-ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+312,structure, Magnet        ,Unknown,Unknown,Unknown,3: Unknown
+313,structure, MeSH ID                ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+314,structure, NLM Catalog ID                ,No Prefix,Allows Managed Prefix,Not found,1
+315,structure, NZBN        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+316,structure, Not Applicable        ,Allows User Semantics,Allows Managed Prefix,Not found,1
+317,structure, Nucleotide GI number        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+318,structure, OCLC Control Number        ,Predefined Identifier Structure,Predefined Identifier Structure,Predefined Identifier Structure,3
+319,structure, OMID        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+320,structure, ORCID        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+321,structure, OpenCitations Corpus        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+322,structure, OpenURL        ,No Prefix,Unknown,Unknown,2
+323,structure, PIC        ,Predefined Identifier Structure,Unknown,Predefined Identifier Structure,2
+324,structure, PIDINST        ,Predefined Identifier Structure,Unknown,Allows Managed Prefix,1
+325,structure, PMCID        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+326,structure, PMID        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+327,structure, PSSM-ID        ,No Prefix,Not found,Unknown,1
+328,structure, PURL        ,No Prefix,Allows Managed Prefix,Allows Managed Prefix,2
+329,structure, PopSet ID        ,Predefined Identifier Structure,Not found,Predefined Identifier Structure,2
+330,structure, Probe ID	        ,Allows User Semantics,Allows Managed Prefix,Unknown,1
+331,structure, Protein Cluster ID        ,Predefined Identifier Structure,Allows User Semantics,Predefined Identifier Structure,2
+332,structure, Protein GI number                ,No Prefix,Predefined Identifier Structure,Predefined Identifier Structure,2
+333,structure, QID        ,Allows Managed Prefix,Not found,Predefined Identifier Structure,1
+334,structure, QID / WDQID        ,Allows User Semantics,Predefined Identifier Structure,Predefined Identifier Structure,2
+335,structure, RAI ID        ,No Prefix,Allows Managed Prefix,Unknown,1
+336,structure, RAID        ,Predefined Identifier Structure,Unknown,Allows Managed Prefix,1
+337,structure, RIN        ,No Prefix,Allows Managed Prefix,Unknown,1
+338,structure, ResearcherID        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+339,structure, Ringgold ID        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+340,structure, RoR        ,Allows Managed Prefix,Unknown,Allows Managed Prefix,2
+341,structure, SBN/ ICCU        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+342,structure, SF-edu-ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows User Semantics,1
+343,structure, SID        ,Allows User Semantics,Allows Managed Prefix,Unknown,1
+344,structure, SRA ID	        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+345,structure, SWHID        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+346,structure, ScopusAuthorID        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+347,structure, TaxID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows User Semantics,1
+348,structure, Toolkit ID        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+349,structure, UID        ,Predefined Identifier Structure,No Prefix,Unknown,1
+350,structure, ULAN ID        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+351,structure, UPC        ,No Prefix,Predefined Identifier Structure,Predefined Identifier Structure,2
+352,structure, URI        ,Predefined Identifier Structure,Allows Managed Prefix,Allows User Semantics,1
+353,structure, URL        ,Allows User Semantics,Predefined Identifier Structure,Predefined Identifier Structure,2
+354,structure, URN        ,Allows User Semantics,Not found,Allows Managed Prefix,1
+355,structure, URN: ISNI        ,No Prefix,Allows Managed Prefix,Predefined Identifier Structure,1
+356,structure, URN:ISAN        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+357,structure, URN:ISBN        ,No Prefix,Allows Managed Prefix,Allows Managed Prefix,2
+358,structure, URN:ISMN        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+359,structure, URN:ISRC        ,Predefined Identifier Structure,Not found,Allows Managed Prefix,1
+360,structure, URN:ISSN        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+361,structure, URN:ISTC        ,Predefined Identifier Structure,Not found,Allows Managed Prefix,1
+362,structure, URN:LSID        ,Allows User Semantics,Allows Managed Prefix,Predefined Identifier Structure,1
+363,structure, URN:NBN        ,Allows Managed Prefix,Allows Managed Prefix,Allows Managed Prefix,3
+364,structure, URN:NBN:AT        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+365,structure, URN:NBN:CH        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+366,structure, URN:NBN:CZ        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+367,structure, URN:NBN:DE        ,Predefined Identifier Structure,Not found,Allows Managed Prefix,1
+368,structure, URN:NBN:FI        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+369,structure, URN:NBN:HR        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+370,structure, URN:NBN:HU        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+371,structure, URN:NBN:IT        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+372,structure, URN:NBN:NL        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+373,structure, URN:NBN:NO        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+374,structure, URN:NBN:SE        ,Predefined Identifier Structure,Allows Managed Prefix,Not found,1
+375,structure, URN:NBN:SI        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+376,structure, URN:NBN:SK        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+377,structure, URN:OID        ,Predefined Identifier Structure,Predefined Identifier Structure,Allows Managed Prefix,2
+378,structure, VAT number        ,Predefined Identifier Structure,Allows User Semantics,Not found,1
+379,structure, VIAF        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+380,structure, Virta-id        ,Allows User Semantics,Allows Managed Prefix,Allows Managed Prefix,2
+381,structure, W3ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+382,structure, WOS        ,Allows Managed Prefix,Allows Managed Prefix,Predefined Identifier Structure,2
+383,structure, Wikipedia        ,No Prefix,Allows Managed Prefix,Unknown,1
+384,structure, XRI        ,Predefined Identifier Structure,Allows Managed Prefix,Allows User Semantics,1
+385,structure, Z39.88-2004        ,No Prefix,Predefined Identifier Structure,Predefined Identifier Structure,2
+386,structure, arXiv        ,Predefined Identifier Structure,Allows Managed Prefix,Predefined Identifier Structure,2
+387,structure, dPID        ,Allows User Semantics,Unknown,Unknown,2
+388,structure, dbGaP ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows Managed Prefix,2
+389,structure, dbVar ID        ,Predefined Identifier Structure,Allows Managed Prefix,Allows User Semantics,1
+390,structure, eISSN        ,Predefined Identifier Structure,Not found,Predefined Identifier Structure,2
+391,structure, ePIC        ,Allows Managed Prefix,Allows Managed Prefix,Allows Managed Prefix,3
+392,structure, re3data        ,Predefined Identifier Structure,Not found,Allows Managed Prefix,1
+393,structure, rs number        ,Allows User Semantics,Allows Managed Prefix,Predefined Identifier Structure,1
+394,structure, swMath        ,Predefined Identifier Structure,Allows Managed Prefix,Unknown,1
+395,structure, zbMath        ,No Prefix,Allows Managed Prefix,Allows Managed Prefix,2
